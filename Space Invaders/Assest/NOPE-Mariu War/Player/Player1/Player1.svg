@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Player1.svg"
+   inkscape:export-filename="F:\MyGames\Construct 2\Space Invaders\Assest\Mariu War\Player\Player1\Sprites\path4196.png"
+   inkscape:export-xdpi="3"
+   inkscape:export-ydpi="3">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-36.365492 : 551.43491 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="707.729 : 551.43491 : 1"
+       inkscape:persp3d-origin="335.68175 : 376.04121 : 1"
+       id="perspective4204" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.175"
+     inkscape:cx="1029.9509"
+     inkscape:cy="-1802.6146"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1024"
+     inkscape:window-height="718"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     showguides="false" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g4267"
+       transform="matrix(3.6507546,0,0,3.6507546,-3206.0538,-4848.1165)">
+      <path
+         sodipodi:nodetypes="ssssssssssssssss"
+         inkscape:connector-curvature="0"
+         id="path4235"
+         d="m 424.64313,1548.2931 c -3.94991,6.6848 -5.2856,14.69 -6.57232,22.3472 -2.77855,16.5351 -2.89466,33.487 -2.36002,50.2452 0.54695,17.1447 2.17358,34.4031 4.50569,51.3971 2.40071,17.4939 3.46141,35.5185 9.72653,52.0275 4.08745,10.7706 8.81937,22.9081 18.45691,29.2194 7.38128,4.8337 17.41249,5.1366 26.16371,4.0119 7.19345,-0.9243 15.03462,-3.3177 19.97372,-8.6286 6.34586,-6.8236 7.72432,-17.1975 9.19775,-26.3984 1.87904,-11.7338 0.7217,-23.8381 -0.6305,-35.6442 -2.10405,-18.3706 -6.04946,-36.6221 -8.0438,-55.0047 -1.66081,-15.3085 -2.34187,-30.1094 -3.80633,-45.4379 -1.05549,-11.0476 -1.79429,-22.5055 -6.11622,-32.7273 -3.37477,-7.9818 -7.54361,-16.8234 -15.00546,-21.23 -7.74589,-4.5743 -18.33644,-5.9911 -26.82007,-2.999 -8.33384,2.9389 -14.17418,11.2138 -18.66959,18.8218 z"
+         style="fill:#f2e1d7;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:7.16865873;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="fill:#bcbcbc;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:7.16865873;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 437.03985,1712.4225 c 4.20128,6.5299 5.84047,14.4785 7.41748,22.0812 3.40541,16.4174 4.16615,33.3524 4.26927,50.119 0.1055,17.153 -0.86358,34.4609 -2.54767,51.5313 -1.73363,17.5725 -2.10804,35.6244 -7.74075,52.3597 -3.67487,10.9183 -10.33129,23.227 -19.72182,29.9002 -7.19211,5.111 -19.5941,5.7953 -28.38174,5.0042 -7.22341,-0.6502 -17.5395,-2.7436 -22.677,-7.8626 -6.60079,-6.5774 -8.3728,-16.8912 -10.19511,-26.0296 -2.32392,-11.6539 -1.62779,-23.7936 -0.72558,-35.6425 1.40385,-18.4371 4.65226,-36.8254 5.94601,-55.2707 1.07737,-15.3606 1.19503,-30.1768 2.07545,-45.5498 0.63455,-11.0798 0.93705,-22.5574 4.86707,-32.9363 3.06878,-8.1043 6.89832,-17.0981 14.18718,-21.7853 7.56634,-4.8656 22.87444,-6.6842 31.46572,-4.017 8.43959,2.6201 16.97997,10.6667 21.76149,18.0982 z"
+         id="path4237"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ssssssssssssssss" />
+      <path
+         sodipodi:nodetypes="ssssssssssssssss"
+         inkscape:connector-curvature="0"
+         id="path4239"
+         d="m 327.21136,1712.4225 c 4.20128,6.5299 5.84047,14.4785 7.41748,22.0812 3.40541,16.4174 4.16616,33.3524 4.26928,50.119 0.1055,17.153 -0.86358,34.4609 -2.54768,51.5313 -1.73362,17.5725 -2.10803,35.6244 -7.74076,52.3597 -3.67485,10.9183 -10.33127,23.227 -19.72181,29.9002 -7.1921,5.111 -19.59409,5.7953 -28.38174,5.0042 -7.2234,-0.6502 -17.53949,-2.7436 -22.67699,-7.8626 -6.60079,-6.5774 -8.3728,-16.8912 -10.19512,-26.0296 -2.32391,-11.6539 -1.62779,-23.7936 -0.72557,-35.6425 1.40384,-18.4371 4.65225,-36.8254 5.94599,-55.2707 1.07738,-15.3606 1.19504,-30.1768 2.07546,-45.5498 0.63455,-11.0798 0.93705,-22.5574 4.86708,-32.9363 3.06878,-8.1043 6.89832,-17.0981 14.18717,-21.7853 7.56634,-4.8656 22.87444,-6.6842 31.46572,-4.017 8.43959,2.6201 16.97997,10.6667 21.76149,18.0982 z"
+         style="fill:#bcbcbc;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:7.16865873;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         transform="matrix(1.1947764,0,0,1.1947764,11.623274,1041.2666)"
+         id="g4241">
+        <path
+           sodipodi:nodetypes="ssssssssss"
+           inkscape:connector-curvature="0"
+           id="path4243"
+           d="m 367.69553,391.64122 c 12.96804,42.63865 21.78409,95.28842 14.38723,142.60554 -1.68036,10.74913 -7.73052,24.45559 -16.40754,31.01887 -10.26117,7.76153 -25.53753,12.65196 -38.3858,13.32632 -38.33303,2.01197 -79.87528,5.8352 -115.15739,-9.28571 -8.97528,-3.84655 -16.33915,-12.24539 -20.20305,-21.21321 -15.19408,-35.26436 -13.55137,-77.37486 -6.06091,-115.03556 3.2024,-16.10111 8.21044,-34.42526 21.2132,-44.44671 27.147,-20.92265 66.86363,-33.19986 101.01526,-30.30458 21.12673,1.79107 53.42953,13.04996 59.599,33.33504 z"
+           style="fill:#f2e1d7;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ssscssssssssscssccs"
+           inkscape:connector-curvature="0"
+           id="path4245"
+           d="m 229.30463,412.93564 c 0.76511,11.10574 2.1561,19.0161 -2.02031,29.33504 -3.494,8.63288 -10.40974,14.08338 -18.18274,19.2132 -10.31053,6.80447 -35.35534,11.11168 -35.35534,11.11168 0,0 -0.6836,27.57163 0,38.32488 1.01219,15.92202 -1.385,33.36712 6.06091,47.47717 5.67695,10.75785 16.27466,19.05029 27.27412,24.24366 15.71863,7.42152 34.18777,6.73026 51.51778,8.08122 20.47764,1.59633 41.15655,1.77699 61.61931,0 13.62212,-1.18295 28.20721,-0.89462 40.4061,-7.07107 9.98599,-5.05603 18.53395,-13.60632 24.24366,-23.2335 6.58331,-11.10015 8.52392,-12.56688 10.10153,-25.37565 2.18193,-17.71534 0.26694,-29.73462 -1.01016,-47.53808 -0.58271,-8.12324 -3.03046,-24.24366 -3.03046,-24.24366 0,0 -23.13444,-7.8855 -30.84371,-15.73175 -5.69776,-5.79901 -6.91806,-28.9282 -8.26788,-36.94512 -1.83377,-10.89125 0.40546,-33.13116 0.40546,-33.13116 l -129.93723,0.51668 c 0,0 6.20189,23.10658 7.01896,34.96646 z"
+           style="fill:#bcbcbc;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <g
+         transform="matrix(1.1947764,0,0,1.1947764,11.623274,1041.2666)"
+         id="g4247">
+        <path
+           sodipodi:nodetypes="sssssssss"
+           inkscape:connector-curvature="0"
+           id="path4249"
+           d="m 366.68537,226.05742 c 16.4936,39.81906 9.90231,87.35265 0,129.29953 -2.94077,12.45729 -5.53945,29.00643 -17.17259,34.34518 -35.66806,16.36901 -84.58701,16.60177 -123.23861,7.07107 -16.25105,-4.00718 -21.75484,-19.40185 -25.75889,-34.34519 -8.74274,-32.62833 -5.98653,-61.35279 -2.52538,-94.95433 2.08526,-20.24411 10.65655,-47.54849 26.26396,-60.60916 31.16885,-26.08288 73.794,-24.61724 112.12693,-11.11167 13.4739,4.74717 24.83767,17.10629 30.30458,30.30457 z"
+           style="fill:#f2e1d7;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccccccccccccccc"
+           inkscape:connector-curvature="0"
+           id="path4251"
+           d="m 368.85714,271.93364 -121.14285,0 7.35989,31.46748 44.92582,0 0,106.38965 -122.85714,4.71429 16.03497,-190.14444 28.96503,-51.99841 132.85714,0.71428 30.27185,50.04585 7.58529,191.38272 -65,-4 0,-107.42857 34.57143,0 z"
+           style="fill:#bcbcbc;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <g
+         id="g4253"
+         inkscape:transform-center-x="-214.86393"
+         inkscape:transform-center-y="6.1790448"
+         transform="matrix(0.01387692,1.1946958,-1.1946958,0.01387692,938.71704,1070.0786)">
+        <path
+           sodipodi:nodetypes="ccccsc"
+           inkscape:connector-curvature="0"
+           id="path4255"
+           d="m 514.28571,660.21934 0,-96.42814 35.03893,0 0,96.42815 c 0,0 -11.5067,12.02555 -17.75321,12 -6.09909,-0.0249 -17.28572,-12.00001 -17.28572,-12.00001 z"
+           style="fill:#939393;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           style="fill:#d1e3e1;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 513.34627,532.5612 0,-234.48471 20.93944,-108.57143 18.57143,108.57143 0,234.48471 z"
+           id="path4257"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccc" />
+        <path
+           style="fill:#939393;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 514.28571,563.7912 -53.24495,-14.267 -6,-15.73342 6,-31.42858 52.30551,30.199 39.51087,0 57.13599,-30.199 6,32.14286 -6,15.01914 -60.66849,14.267 z"
+           id="path4259"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccc" />
+      </g>
+      <path
+         style="fill:#f2e1d7;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:7.16865873;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 208.93208,1543.3347 c -5.25885,5.7125 -8.2369,13.2623 -11.09437,20.482 -6.17045,15.5902 -9.82421,32.1439 -12.80117,48.6445 -3.04558,16.8808 -5.05903,34.0981 -6.32737,51.2046 -1.30565,17.6095 -4.03259,35.4582 -1.35333,52.9116 1.74799,11.3867 3.84079,24.2448 11.94777,32.4296 6.20905,6.2687 15.95582,8.6598 24.74893,9.3876 7.2279,0.5982 15.39599,-0.1052 21.3353,-4.2671 7.63096,-5.3478 11.1455,-15.2051 14.50799,-23.8955 4.28806,-11.0826 5.68412,-23.1618 6.8273,-34.9899 1.77882,-18.4048 1.73204,-37.0779 3.62072,-55.4718 1.57282,-15.3178 3.99779,-29.9345 5.76681,-45.2308 1.27498,-11.0245 2.94531,-22.384 0.85341,-33.2831 -1.63346,-8.5105 -3.86388,-18.0277 -10.24094,-23.8955 -6.61982,-6.0911 -16.68095,-9.6883 -25.60235,-8.534 -8.76387,1.1337 -16.20354,8.0064 -22.1887,14.5078 z"
+         id="path4261"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ssssssssssssssss" />
+    </g>
+    <g
+       id="g4337"
+       inkscape:export-filename="F:\MyGames\Construct 2\Space Invaders\Assest\Mariu War\Player\Player1\Sprites\g4337.png"
+       inkscape:export-xdpi="3"
+       inkscape:export-ydpi="3">
+      <path
+         sodipodi:nodetypes="sssssssss"
+         inkscape:connector-curvature="0"
+         id="path4154"
+         d="m 723.4885,216.80796 c 73.05258,176.36447 43.85879,386.89772 0,572.68661 -13.0251,55.17517 -24.53504,128.47374 -76.05992,152.11985 C 489.4495,1014.1152 272.78028,1015.1461 101.58667,972.93323 29.608381,955.18484 5.2312865,886.99959 -12.503239,820.81334 -51.226119,676.29767 -39.01846,549.07282 -23.688518,400.24666 -14.452595,310.58252 23.510907,189.64741 92.638419,131.79979 230.68983,16.27488 419.48289,22.766415 589.26506,82.584569 648.94295,103.61048 699.27475,158.35084 723.4885,216.80796 Z"
+         style="fill:#bababa;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:26.57499886;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cssccccc"
+         inkscape:connector-curvature="0"
+         d="m 339.8486,394.91681 c -26.95086,89.90718 -2.27378,97.63229 128.40672,120.21835 20.93494,3.61827 23.1819,101.78864 25.59596,127.55341 12.36431,131.96156 -10.21907,257.15692 22.78604,339.03949 C 414.03813,1006.67 388.29469,1000.2266 338.42945,1014.1172 261.70142,884.85796 263.67429,756.39266 224.76609,680.07307 c -6.0551,-10.82389 -52.0638,-167.38816 -43.87958,-266.7574 51.05143,-16.26381 86.54599,-10.57309 158.96209,-18.39886 z"
+         id="path4300"
+         style="opacity:1;fill:#888888;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:26.57500076;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:26.57499886;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 723.4885,216.80796 c 73.05258,176.36447 43.85879,386.89772 0,572.68661 -13.0251,55.17517 -24.53504,128.47374 -76.05992,152.11985 C 489.4495,1014.1152 272.78028,1015.1461 101.58667,972.93323 29.608381,955.18484 5.2312865,886.99959 -12.503239,820.81334 -51.226119,676.29767 -39.01846,549.07282 -23.688518,400.24666 -14.452595,310.58252 23.510907,189.64741 92.638419,131.79979 230.68983,16.27488 419.48289,22.766415 589.26506,82.584569 648.94295,103.61048 699.27475,158.35084 723.4885,216.80796 Z"
+         id="path4302"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sssssssss" />
+      <path
+         sodipodi:nodetypes="ccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path4158"
+         d="m 733.10759,420.00048 -536.55948,0 32.59803,139.37409 198.98306,0 0,471.21543 -544.15232,20.8802 71.021237,-842.17762 128.290373,-230.308592 588.44379,3.163651 134.07847,221.660421 33.59636,847.66214 -287.89454,-17.7165 0,-475.81696 153.12194,0 z"
+         style="fill:#8c8c8c;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:26.57499886;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccsscc"
+         inkscape:connector-curvature="0"
+         d="M -113.0697,1045.3543 C -83.861708,722.7677 -64.1105,365.59583 -37.207206,205.53331 35.040593,74.493789 7.0197064,105.89809 81.230717,-16.940692 L 394.15402,-20.896566 C 257.48951,45.887238 153.16107,89.439439 118.69466,327.76933 c -18.51187,128.00671 10.96206,314.83436 14.02927,444.24155 2.97589,125.55465 107.94005,230.14872 183.06015,259.12542 -141.75413,10.417 -325.3250427,22.9174 -428.85378,14.218 z"
+         id="path4283"
+         style="opacity:1;fill:#525252;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:26.57500076;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:26.57499886;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 733.10759,420.00048 -536.55948,0 32.59803,139.37409 198.98306,0 0,471.21543 -544.15232,20.8802 71.021237,-842.17762 128.290373,-230.308592 588.44379,3.163651 134.07847,221.660421 33.59636,847.66214 -287.89454,-17.7165 0,-475.81696 153.12194,0 z"
+         id="path4285"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccccccccc" />
+    </g>
+    <g
+       id="g4332"
+       inkscape:export-filename="F:\MyGames\Construct 2\Space Invaders\Assest\Mariu War\Player\Player1\Sprites\g4332.png"
+       inkscape:export-xdpi="3"
+       inkscape:export-ydpi="3">
+      <path
+         inkscape:export-ydpi="2.9448161"
+         inkscape:export-xdpi="2.9448161"
+         inkscape:export-filename="F:\MyGames\Construct 2\Space Invaders\Assest\Mariu War\Player\Player1\Sprites\path4174.png"
+         sodipodi:nodetypes="ssssssssssssssss"
+         inkscape:connector-curvature="0"
+         id="path4174"
+         d="m -66.793966,1212.0567 c -19.49523,21.1768 -30.53496,49.1646 -41.127984,75.9284 -22.87462,57.7942 -36.4192,119.1607 -47.45524,180.3295 -11.29031,62.5788 -18.75417,126.4055 -23.45625,189.8205 -4.83997,65.28 -14.94886,131.4468 -5.01681,196.1481 6.47999,42.2117 14.2382,89.8776 44.2916,120.2195 23.01734,23.2387 59.149634,32.1027 91.746494,34.8007 26.79448,2.2174 57.0743889,-0.3886 79.091929,-15.8185 28.28881,-19.8252 41.3174,-56.3664 53.78249,-88.5828 15.896397,-41.0842 21.071507,-85.863 25.309437,-129.711 6.59418,-68.2283 6.42105,-137.451 13.42228,-205.6389 5.83089,-56.784 14.82021,-110.9701 21.37805,-167.6748 4.72656,-40.8689 10.91887,-82.9795 3.16402,-123.3834 -6.05555,-31.5493 -14.32384,-66.8308 -37.96435,-88.583 -24.540197,-22.5802 -61.837647,-35.9155 -94.910097,-31.6367 -32.488599,4.2032 -60.068239,29.6809 -82.255569,53.7824 z"
+         style="fill:#bababa;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:26.575;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cscscsccccccc"
+         inkscape:connector-curvature="0"
+         d="m 91.354497,1180.1713 c -83.709292,33.3632 -95.0248017,41.3494 -122.043308,100.7312 -16.871822,37.0812 -38.180904,62.0044 39.638137,172.9674 -92.099475,-82.2307 -76.907148,27.8716 -83.321309,83.4012 -4.887999,42.3171 -9.630536,153.4997 85.970452,183.9257 -128.094209,-20.6661 -118.448889,121.0976 -118.356419,151.3411 0.0748,24.4695 12.891208,69.1288 99.3960869,131.9287 L -114.44626,1993.5735 c -29.20462,-46.3548 -65.53667,-79.2781 -67.20953,-110.751 3.39549,-74.0949 -2.24618,-164.3427 7.15031,-237.961 12.33332,-95.1467 31.04592,-208.2066 47.98385,-302.643 14.3961,-60.1006 38.565022,-82.4216 87.643308,-154.0078 61.301704,-47.4353 83.131499,-21.9694 130.232819,-8.0394 z"
+         id="path4308"
+         style="opacity:1;fill:#888888;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:26.57500076;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:26.575;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -66.793966,1212.0567 c -19.49523,21.1768 -30.53496,49.1646 -41.127984,75.9284 -22.87462,57.7942 -36.4192,119.1607 -47.45524,180.3295 -11.29031,62.5788 -18.75417,126.4055 -23.45625,189.8205 -4.83997,65.28 -14.94886,131.4468 -5.01681,196.1481 6.47999,42.2117 14.2382,89.8776 44.2916,120.2195 23.01734,23.2387 59.149634,32.1027 91.746494,34.8007 26.79448,2.2174 57.0743889,-0.3886 79.091929,-15.8185 28.28881,-19.8252 41.3174,-56.3664 53.78249,-88.5828 15.896397,-41.0842 21.071507,-85.863 25.309437,-129.711 6.59418,-68.2283 6.42105,-137.451 13.42228,-205.6389 5.83089,-56.784 14.82021,-110.9701 21.37805,-167.6748 4.72656,-40.8689 10.91887,-82.9795 3.16402,-123.3834 -6.05555,-31.5493 -14.32384,-66.8308 -37.96435,-88.583 -24.540197,-22.5802 -61.837647,-35.9155 -94.910097,-31.6367 -32.488599,4.2032 -60.068239,29.6809 -82.255569,53.7824 z"
+         id="path4310"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ssssssssssssssss"
+         inkscape:export-filename="F:\MyGames\Construct 2\Space Invaders\Assest\Mariu War\Player\Player1\Sprites\path4174.png"
+         inkscape:export-xdpi="2.9448161"
+         inkscape:export-ydpi="2.9448161" />
+    </g>
+    <g
+       id="g4318"
+       inkscape:export-filename="F:\MyGames\Construct 2\Space Invaders\Assest\Mariu War\Player\Player1\Sprites\g4318.png"
+       inkscape:export-xdpi="3"
+       inkscape:export-ydpi="3">
+      <path
+         inkscape:export-ydpi="3.0210407"
+         inkscape:export-xdpi="3.0210407"
+         inkscape:export-filename="F:\MyGames\Construct 2\Space Invaders\Assest\Mariu War\Player\Player1\Sprites\path4176.png"
+         style="fill:#bababa;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:26.575;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 277.401,1245.9029 c -14.64263,24.7812 -19.59384,54.4572 -24.36411,82.8431 -10.30016,61.2969 -10.73054,124.139 -8.74875,186.2637 2.02779,63.5569 8.05774,127.5351 16.70305,190.5336 8.89961,64.8515 12.83174,131.6704 36.05704,192.8707 15.15274,39.9279 32.69434,84.9224 68.42145,108.3192 27.36315,17.919 64.54975,19.0418 96.99162,14.8725 26.66662,-3.4269 55.73466,-12.2989 74.04436,-31.987 23.52447,-25.2956 28.63471,-63.7522 34.09673,-97.8613 6.96601,-43.4982 2.67542,-88.3703 -2.33732,-132.1365 -7.79972,-68.1012 -22.42569,-135.7612 -29.81912,-203.9076 -6.15673,-56.7498 -8.68127,-111.6183 -14.1103,-168.4424 -3.91283,-40.9547 -6.65164,-83.43 -22.67331,-121.3234 -12.5107,-29.5889 -27.96484,-62.3656 -55.62678,-78.7012 -28.71479,-16.9574 -67.97475,-22.2094 -99.42461,-11.1182 -30.89417,10.8955 -52.54471,41.5709 -69.20995,69.7748 z"
+         id="path4176"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ssssssssssssssss" />
+      <path
+         style="opacity:1;fill:#888888;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:26.57500076;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path4314"
+         d="m 416.76169,1191.3061 c -72.96649,52.8795 -81.97701,63.3976 -93.60213,127.5931 -7.25938,40.0871 -21.80304,69.4763 80.85975,157.9576 -109.45813,-57.1237 -67.71942,45.8869 -60.31488,101.2932 5.64274,42.2231 28.32079,151.1715 128.46455,157.2146 -129.2497,11.3899 -85.12122,146.4553 -77.61214,175.7519 6.07545,23.7034 29.45617,63.8538 128.72383,103.513 l -106.48436,15.7101 c -39.68408,-37.7737 -82.98271,-60.7779 -92.32548,-90.8786 -37.74261,-72.6636 -42.49461,-158.7696 -51.44554,-232.4434 -11.38525,-95.2648 -20.98069,-209.4603 -27.7278,-305.1662 -0.78789,-61.7957 17.1666,-89.3638 47.18338,-170.8024 47.79142,-61.0245 63.77293,-58.835 124.28082,-39.7429 z"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cscscsccccccc" />
+      <path
+         sodipodi:nodetypes="ssssssssssssssss"
+         inkscape:connector-curvature="0"
+         id="path4316"
+         d="m 277.401,1245.9029 c -14.64263,24.7812 -19.59384,54.4572 -24.36411,82.8431 -10.30016,61.2969 -10.73054,124.139 -8.74875,186.2637 2.02779,63.5569 8.05774,127.5351 16.70305,190.5336 8.89961,64.8515 12.83174,131.6704 36.05704,192.8707 15.15274,39.9279 32.69434,84.9224 68.42145,108.3192 27.36315,17.919 64.54975,19.0418 96.99162,14.8725 26.66662,-3.4269 55.73466,-12.2989 74.04436,-31.987 23.52447,-25.2956 28.63471,-63.7522 34.09673,-97.8613 6.96601,-43.4982 2.67542,-88.3703 -2.33732,-132.1365 -7.79972,-68.1012 -22.42569,-135.7612 -29.81912,-203.9076 -6.15673,-56.7498 -8.68127,-111.6183 -14.1103,-168.4424 -3.91283,-40.9547 -6.65164,-83.43 -22.67331,-121.3234 -12.5107,-29.5889 -27.96484,-62.3656 -55.62678,-78.7012 -28.71479,-16.9574 -67.97475,-22.2094 -99.42461,-11.1182 -30.89417,10.8955 -52.54471,41.5709 -69.20995,69.7748 z"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:26.575;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:export-filename="F:\MyGames\Construct 2\Space Invaders\Assest\Mariu War\Player\Player1\Sprites\path4176.png"
+         inkscape:export-xdpi="3.0210407"
+         inkscape:export-ydpi="3.0210407" />
+    </g>
+    <g
+       id="g4366"
+       inkscape:export-filename="F:\MyGames\Construct 2\Space Invaders\Assest\Mariu War\Player\Player1\Sprites\g4366.png"
+       inkscape:export-xdpi="3"
+       inkscape:export-ydpi="3">
+      <path
+         inkscape:export-ydpi="3"
+         inkscape:export-xdpi="3"
+         inkscape:export-filename="F:\MyGames\Construct 2\Space Invaders\Assest\Mariu War\Player\Player1\Sprites\path4196.png"
+         style="fill:#8c8c8c;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:26.575;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 85.392243,2212.202 c 15.574227,24.2066 21.650887,53.6728 27.496977,81.8567 12.62414,60.8609 15.44449,123.6412 15.8267,185.7965 0.39109,63.5878 -3.20145,127.749 -9.44456,191.0309 -6.42663,65.143 -7.81457,132.0632 -28.695497,194.1027 -13.6232,40.475 -38.29909,86.1043 -73.11054,110.8426 -26.6617801,18.947 -72.637159,21.483 -105.213969,18.551 -26.777804,-2.4107 -65.020564,-10.1708 -84.065764,-29.1478 -24.46976,-24.3826 -31.03873,-62.6173 -37.79416,-96.4941 -8.615,-43.2015 -6.03442,-88.2046 -2.68988,-132.1297 5.20439,-68.3483 17.2465,-136.5159 22.04237,-204.8941 3.99404,-56.9428 4.43036,-111.8675 7.69407,-168.857 2.35215,-41.074 3.47356,-83.6226 18.04281,-122.0982 11.37594,-30.043 25.57264,-63.3839 52.5929,-80.76 28.049344,-18.037 84.797894,-24.7786 116.6466429,-14.8916 31.2860201,9.7131 62.9460501,39.5428 80.6719001,67.0921 z"
+         id="path4196"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ssssssssssssssss" />
+      <g
+         id="g4361">
+        <g
+           id="g4358">
+          <path
+             sodipodi:nodetypes="csssccsccc"
+             inkscape:connector-curvature="0"
+             d="m 1.0042992,2154.3184 c -69.0383412,50.6175 -76.8290252,165.4866 -84.1458092,207.5896 -16.471986,94.7847 -13.838105,194.6888 -26.75739,282.4333 -10.35321,70.3164 -4.96723,107.5881 -14.21698,178.0645 -2.35351,17.932 -14.29324,101.6302 74.988709,163.874 -126.930759,14.1973 -113.735629,-15.2674 -148.912999,-57.0272 -6.30672,-65.8112 -16.35951,-159.0882 -9.09156,-204.3036 15.94604,-99.2035 2.40492,-128.7694 17.03086,-228.1702 6.45959,-55.34 -2.84039,-244.6934 73.83908,-325.3156 48.92135,-19.1731 62.813056,-29.7928 117.2660892,-17.1448 z"
+             id="path4345"
+             style="opacity:1;fill:#525252;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:26.57500076;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        </g>
+        <path
+           inkscape:export-ydpi="3"
+           inkscape:export-xdpi="3"
+           inkscape:export-filename="F:\MyGames\Construct 2\Space Invaders\Assest\Mariu War\Player\Player1\Sprites\path4196.png"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:26.575;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 85.392243,2212.202 c 15.574227,24.2066 21.650887,53.6728 27.496977,81.8567 12.62414,60.8609 15.44449,123.6412 15.8267,185.7965 0.39109,63.5878 -3.20145,127.749 -9.44456,191.0309 -6.42663,65.143 -7.81457,132.0632 -28.695497,194.1027 -13.6232,40.475 -38.29909,86.1043 -73.11054,110.8426 -26.6617801,18.947 -72.637159,21.483 -105.213969,18.551 -26.777804,-2.4107 -65.020564,-10.1708 -84.065764,-29.1478 -24.46976,-24.3826 -31.03873,-62.6173 -37.79416,-96.4941 -8.615,-43.2015 -6.03442,-88.2046 -2.68988,-132.1297 5.20439,-68.3483 17.2465,-136.5159 22.04237,-204.8941 3.99404,-56.9428 4.43036,-111.8675 7.69407,-168.857 2.35215,-41.074 3.47356,-83.6226 18.04281,-122.0982 11.37594,-30.043 25.57264,-63.3839 52.5929,-80.76 28.049344,-18.037 84.797894,-24.7786 116.6466429,-14.8916 31.2860201,9.7131 62.9460501,39.5428 80.6719001,67.0921 z"
+           id="path4347"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ssssssssssssssss" />
+      </g>
+    </g>
+    <g
+       id="g4353"
+       inkscape:export-filename="F:\MyGames\Construct 2\Space Invaders\Assest\Mariu War\Player\Player1\Sprites\g4353.png"
+       inkscape:export-xdpi="3"
+       inkscape:export-ydpi="3">
+      <path
+         inkscape:export-ydpi="3"
+         inkscape:export-xdpi="3"
+         inkscape:export-filename="F:\MyGames\Construct 2\Space Invaders\Assest\Mariu War\Player\Player1\Sprites\path4198.png"
+         sodipodi:nodetypes="ssssssssssssssss"
+         inkscape:connector-curvature="0"
+         id="path4198"
+         d="m 594.92517,2224.857 c 15.57459,24.2061 21.65089,53.6726 27.49737,81.8566 12.62412,60.861 15.4441,123.6409 15.82631,185.7961 0.3911,63.5882 -3.20145,127.7494 -9.44419,191.0308 -6.42698,65.1431 -7.81493,132.0633 -28.69586,194.1028 -13.6232,40.4753 -38.29908,86.1047 -73.11055,110.843 -26.66178,18.947 -72.63715,21.483 -105.21359,18.5506 -26.77818,-2.4104 -65.02055,-10.1704 -84.0661,-29.1477 -24.46941,-24.3827 -31.0384,-62.617 -37.79419,-96.4942 -8.61491,-43.2015 -6.03441,-88.204 -2.68949,-132.1293 5.20399,-68.3486 17.24612,-136.5159 22.04237,-204.8945 3.99364,-56.9428 4.42997,-111.8675 7.69369,-168.857 2.35253,-41.0736 3.47391,-83.6225 18.04281,-122.0978 11.37632,-30.0434 25.57263,-63.3843 52.59325,-80.7599 28.04897,-18.0373 84.79753,-24.7787 116.64627,-14.8917 31.28639,9.7126 62.94645,39.5428 80.6719,67.0922 z"
+         style="fill:#8c8c8c;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:26.575;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="opacity:1;fill:#525252;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:26.57500076;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path4349"
+         d="m 518.2024,2164.4199 c -69.03834,50.6175 -76.82902,165.4866 -84.14581,207.5896 -16.47198,94.7847 -13.8381,194.6888 -26.75739,282.4333 -10.35321,70.3164 -4.96723,107.5881 -14.21698,178.0645 -2.35351,17.932 -14.29324,101.6302 74.98871,163.874 -126.93076,14.1973 -113.73563,-15.2674 -148.913,-57.0272 -6.30672,-65.8112 -16.35951,-159.0882 -9.09156,-204.3036 15.94604,-99.2035 2.40492,-128.7694 17.03086,-228.1702 6.45959,-55.34 -2.84039,-244.6934 73.83908,-325.3156 48.92135,-19.1731 62.81306,-29.7928 117.26609,-17.1448 z"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="csssccsccc" />
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:26.575;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 594.92517,2224.857 c 15.57459,24.2061 21.65089,53.6726 27.49737,81.8566 12.62412,60.861 15.4441,123.6409 15.82631,185.7961 0.3911,63.5882 -3.20145,127.7494 -9.44419,191.0308 -6.42698,65.1431 -7.81493,132.0633 -28.69586,194.1028 -13.6232,40.4753 -38.29908,86.1047 -73.11055,110.843 -26.66178,18.947 -72.63715,21.483 -105.21359,18.5506 -26.77818,-2.4104 -65.02055,-10.1704 -84.0661,-29.1477 -24.46941,-24.3827 -31.0384,-62.617 -37.79419,-96.4942 -8.61491,-43.2015 -6.03441,-88.204 -2.68949,-132.1293 5.20399,-68.3486 17.24612,-136.5159 22.04237,-204.8945 3.99364,-56.9428 4.42997,-111.8675 7.69369,-168.857 2.35253,-41.0736 3.47391,-83.6225 18.04281,-122.0978 11.37632,-30.0434 25.57263,-63.3843 52.59325,-80.7599 28.04897,-18.0373 84.79753,-24.7787 116.64627,-14.8917 31.28639,9.7126 62.94645,39.5428 80.6719,67.0922 z"
+         id="path4351"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ssssssssssssssss"
+         inkscape:export-filename="F:\MyGames\Construct 2\Space Invaders\Assest\Mariu War\Player\Player1\Sprites\path4198.png"
+         inkscape:export-xdpi="3"
+         inkscape:export-ydpi="3" />
+    </g>
+    <g
+       id="g4393"
+       inkscape:export-filename="F:\MyGames\Construct 2\Space Invaders\Assest\Mariu War\Player\Player1\Sprites\g4393.png"
+       inkscape:export-xdpi="3"
+       inkscape:export-ydpi="3">
+      <path
+         sodipodi:nodetypes="ccccsc"
+         inkscape:connector-curvature="0"
+         id="path4200"
+         d="m 1027.115,3212.0917 0,-433.0944 155.1925,0 0,433.0944 c 0,0 -50.9648,53.2629 -78.6315,53.1498 -27.0138,-0.1103 -76.561,-53.1498 -76.561,-53.1498 z"
+         style="fill:#787878;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:26.57499886;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="fill:#a6c9c5;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:26.57499886;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1022.954,2652.675 0,-1044.5672 92.7439,-480.8788 82.2556,480.8788 0,1044.5672 z"
+         id="path4222"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         sodipodi:nodetypes="ssccscscs"
+         inkscape:connector-curvature="0"
+         d="m 1099.0952,1618.0794 c 2.2133,36.4264 -8.6163,594.7362 -7.1749,629.1111 6.9671,166.1532 -5.8491,268.7024 43.7457,419.6078 -113.3176,-2.6577 -41.9159,-5.9467 -109.2769,-10.7389 -2.8656,-62.2238 2.9786,-370.4631 -1.3779,-435.4234 -8.1161,-121.0197 -8.1749,-207.3722 -7.0034,-352.574 -2.6843,-28.5869 0.906,-243.3878 6.0894,-271.6287 28.968,-157.83 69.5603,-343.147 96.122,-442.9608 -25.9893,284.7862 -30.0894,317.0521 -21.124,464.6069 z"
+         id="path4377"
+         style="opacity:1;fill:#5f9c94;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:26.57500076;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path4379"
+         d="m 1022.954,2652.675 0,-1044.5672 92.7439,-480.8788 82.2556,480.8788 0,1044.5672 z"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:26.57499886;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cscccccc"
+         inkscape:connector-curvature="0"
+         d="m 1094.6076,2786.3956 c -21.2401,57.7714 -11.6362,202.3936 -10.8911,234.5872 1.0127,43.7553 -21.3702,137.6118 31.7558,240.5436 -62.4661,-3.9686 -58.2534,-30.1636 -79.6153,-47.8336 l -6.3074,-71.8681 c 0,0 7.003,-174.7126 1.129,-220.3746 -2.9047,-22.431 -3.0796,-113.4476 -5.2816,-135.9626 69.2106,0.9081 0,0 69.2106,0.9081 z"
+         id="path4389"
+         style="opacity:1;fill:#4b4b4b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:26.57500076;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:26.57499886;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1027.115,3212.0917 0,-433.0944 155.1925,0 0,433.0944 c 0,0 -50.9648,53.2629 -78.6315,53.1498 -27.0138,-0.1103 -76.561,-53.1498 -76.561,-53.1498 z"
+         id="path4391"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccsc" />
+      <path
+         style="fill:#787878;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:26.57499886;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1027.115,2784.9973 -235.82975,-63.1907 -26.57488,-69.6856 26.57488,-139.2018 231.66875,133.7558 174.9995,0 253.0637,-133.7558 26.5749,142.3654 -26.5749,66.522 -268.7097,63.1907 z"
+         id="path4224"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccccc" />
+      <path
+         sodipodi:nodetypes="ccccccscc"
+         inkscape:connector-curvature="0"
+         d="m 791.63853,2719.2423 c -7.0188,-26.4295 -15.39113,-39.1664 -24.79163,-64.8188 -7.88835,-23.4018 19.34071,-95.1376 23.41208,-129.6425 l 47.27366,11.6785 173.57756,101.6642 107.3362,5.9986 c 8.076,29.2334 -17.9145,30.4405 -24.7252,65.5047 -6.4943,33.4354 -6.0301,42.2363 -2.2802,80.0721 -89.1212,-16.03 -143.81501,-13.2784 -299.80247,-70.4568 z"
+         id="path4385"
+         style="opacity:1;fill:#4b4b4b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:26.57500076;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path4387"
+         d="m 1027.115,2784.9973 -235.82975,-63.1907 -26.57488,-69.6856 26.57488,-139.2018 231.66875,133.7558 174.9995,0 253.0637,-133.7558 26.5749,142.3654 -26.5749,66.522 -268.7097,63.1907 z"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:26.57499886;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="g4421"
+       inkscape:export-filename="F:\MyGames\Construct 2\Space Invaders\Assest\Mariu War\Player\Player1\Sprites\g4421.png"
+       inkscape:export-xdpi="3"
+       inkscape:export-ydpi="3">
+      <path
+         sodipodi:nodetypes="ssssssssss"
+         inkscape:connector-curvature="0"
+         id="path4164"
+         d="m 1815.0734,170.9471 c 57.4374,188.85284 96.485,422.04641 63.7232,631.62088 -7.4426,47.60948 -34.2396,108.3174 -72.6714,137.38713 -45.4482,34.37696 -113.1095,56.03739 -170.0164,59.02423 -169.7826,8.91136 -353.7793,25.84496 -510.049,-41.12777 -39.7528,-17.03694 -72.3685,-54.23663 -89.4822,-93.95643 -67.29685,-156.19103 -60.02104,-342.70462 -26.8447,-509.50939 14.1839,-71.31418 36.3653,-152.47453 93.9564,-196.86101 120.238,-92.669487 296.1488,-147.047054 447.4114,-134.223434 93.5734,7.932913 236.6472,57.80019 263.9727,147.645794 z"
+         style="fill:#bababa;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:26.57499886;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccsscccscc"
+         inkscape:connector-curvature="0"
+         d="m 989.41338,513.64998 c 10.25084,-39.09272 2.5253,-95.9861 11.87192,-121.67858 3.1442,-9.34684 9.4416,-45.92741 12.463,-55.31465 3.208,-9.96677 26.2752,-95.80317 29.4572,-105.77826 12.0281,-37.70614 91.175,-101.51459 91.175,-101.51459 l 40.9905,-10.93975 13.9553,65.10052 c -50.4063,-2.63653 -74.2734,60.76757 -94.8923,113.04853 -29.0616,73.68814 -25.0831,93.42855 14.0634,183.19106 z"
+         id="path4415"
+         style="opacity:1;fill:#888888;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:26.57500076;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="csccccc"
+         inkscape:connector-curvature="0"
+         d="m 1791.6538,135.12828 c -36.2584,30.73203 -1.3329,155.90455 6.6667,176.93027 13.0311,34.25038 -14.8983,55.90079 70.7087,154.84375 -61.3022,-41.25549 -73.6031,-10.10692 -91.6068,-63.47885 -4.8694,-16.69043 -30.8468,-122.28194 -36.1971,-138.8266 -16.6298,-40.73632 -7.4718,-89.19594 2.2182,-142.10125 32.2189,-24.089702 42.1251,-8.20364 48.2103,12.63268 z"
+         id="path4419"
+         style="opacity:1;fill:#888888;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:26.57500076;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:26.57499886;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1815.0734,170.9471 c 57.4374,188.85284 96.485,422.04641 63.7232,631.62088 -7.4426,47.60948 -34.2396,108.3174 -72.6714,137.38713 -45.4482,34.37696 -113.1095,56.03739 -170.0164,59.02423 -169.7826,8.91136 -353.7793,25.84496 -510.049,-41.12777 -39.7528,-17.03694 -72.3685,-54.23663 -89.4822,-93.95643 -67.29685,-156.19103 -60.02104,-342.70462 -26.8447,-509.50939 14.1839,-71.31418 36.3653,-152.47453 93.9564,-196.86101 120.238,-92.669487 296.1488,-147.047054 447.4114,-134.223434 93.5734,7.932913 236.6472,57.80019 263.9727,147.645794 z"
+         id="path4417"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ssssssssss" />
+      <path
+         sodipodi:nodetypes="ssscssssssssscssccs"
+         inkscape:connector-curvature="0"
+         id="path4172"
+         d="m 1202.1198,265.26321 c 3.3888,49.18895 9.5497,84.2251 -8.9482,129.9292 -15.4755,38.23629 -46.1063,62.37736 -80.5341,85.09809 -45.6668,30.13799 -156.59396,49.21526 -156.59396,49.21526 0,0 -3.02776,122.1188 0,169.74652 4.48314,70.52097 -6.13437,147.78788 26.84466,210.28336 25.144,47.6481 72.0829,84.37654 120.8011,107.37876 69.6201,32.871 151.4226,29.8093 228.1798,35.7929 90.6985,7.0704 182.2884,7.8705 272.921,0 60.3343,-5.2395 124.9339,-3.9624 178.9645,-31.3188 44.2294,-22.39392 82.0896,-60.26441 107.3788,-102.90461 29.1584,-49.16419 37.7537,-55.66055 44.7411,-112.39248 9.6641,-78.46384 1.1823,-131.699 -4.4741,-210.55314 -2.5809,-35.97902 -13.4224,-107.37873 -13.4224,-107.37873 0,0 -102.4658,-34.92604 -136.6113,-69.67823 -25.2362,-25.68467 -30.6411,-128.12725 -36.6197,-163.63537 -8.122,-48.23894 1.7959,-146.74277 1.7959,-146.74277 l -575.5111,2.28845 c 0,0 27.4691,102.34244 31.088,154.87159 z"
+         style="fill:#8c8c8c;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:26.57499886;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccccssscsc"
+         inkscape:connector-curvature="0"
+         d="m 1034.4328,964.88446 c -57.47441,-68.66464 -79.40764,-166.60119 -75.09971,-265.31107 5.34175,-50.79378 0,0 0.82835,-166.31324 88.59036,-19.62525 240.09456,-51.41603 245.47166,-230.91603 l -19.0869,-192.42043 170.4772,4.04061 c -82.5221,78.31806 -50.7246,207.08417 -44.7045,254.79563 18.7366,148.49498 -75.3696,148.45497 -85.7183,253.86684 -9.0159,91.83663 -21.7139,101.69618 -5.498,192.5882 12.6247,70.7633 0.357,101.97975 165.5617,236.07953 0,0 -183.7195,-2.6431 -235.9747,-18.0963 -48.7798,-14.4255 -116.2568,-68.31374 -116.2568,-68.31374 z"
+         id="path4404"
+         style="opacity:1;fill:#525252;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:26.57500076;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:26.57499886;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1202.1198,265.26321 c 3.3888,49.18895 9.5497,84.2251 -8.9482,129.9292 -15.4755,38.23629 -46.1063,62.37736 -80.5341,85.09809 -45.6668,30.13799 -156.59396,49.21526 -156.59396,49.21526 0,0 -3.02776,122.1188 0,169.74652 4.48314,70.52097 -6.13437,147.78788 26.84466,210.28336 25.144,47.6481 72.0829,84.37654 120.8011,107.37876 69.6201,32.871 151.4226,29.8093 228.1798,35.7929 90.6985,7.0704 182.2884,7.8705 272.921,0 60.3343,-5.2395 124.9339,-3.9624 178.9645,-31.3188 44.2294,-22.39392 82.0896,-60.26441 107.3788,-102.90461 29.1584,-49.16419 37.7537,-55.66055 44.7411,-112.39248 9.6641,-78.46384 1.1823,-131.699 -4.4741,-210.55314 -2.5809,-35.97902 -13.4224,-107.37873 -13.4224,-107.37873 0,0 -102.4658,-34.92604 -136.6113,-69.67823 -25.2362,-25.68467 -30.6411,-128.12725 -36.6197,-163.63537 -8.122,-48.23894 1.7959,-146.74277 1.7959,-146.74277 l -575.5111,2.28845 c 0,0 27.4691,102.34244 31.088,154.87159 z"
+         id="path4406"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ssscssssssssscssccs" />
+    </g>
+  </g>
+</svg>

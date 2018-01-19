@@ -1,0 +1,1072 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="732.48456mm"
+   height="753.17792mm"
+   viewBox="0 0 732.48456 753.17792"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="Ogum.svg"
+   inkscape:export-filename="C:\Users\Ghuide\Desktop\learning\0.0 fatec\0.0 the toekoms of orixás\1.0 artwork and animations\2.0 NPC\5.0 guard melee\guard melee.png"
+   inkscape:export-xdpi="25"
+   inkscape:export-ydpi="25"
+   style="enable-background:new">
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect4834"
+       is_visible="true"
+       pattern="m -5.7105133,9.4210427 c 0,-2.76 2.2399999,-5 4.99999999,-5 2.75999991,0 5.00000001,2.24 5.00000001,5 0,2.7600003 -2.2400001,5.0000003 -5.00000001,5.0000003 -2.76000009,0 -4.99999999,-2.24 -4.99999999,-5.0000003 z"
+       copytype="single_stretched"
+       prop_scale="0.41731865"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       fuse_tolerance="0" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect4830"
+       is_visible="true"
+       pattern="m -3.3157819,9.7894629 c 0,-2.76 2.24,-5 4.9999999,-5 2.7600001,0 5.0000001,2.24 5.0000001,5 0,2.7600001 -2.24,5.0000001 -5.0000001,5.0000001 -2.7599999,0 -4.9999999,-2.24 -4.9999999,-5.0000001 z"
+       copytype="single_stretched"
+       prop_scale="0.41731865"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       fuse_tolerance="0" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect4807"
+       is_visible="true"
+       pattern="M 0,5 C 0,2.24 2.24,0 5,0 7.76,0 10,2.24 10,5 10,7.76 7.76,10 5,10 2.24,10 0,7.76 0,5 Z"
+       copytype="single_stretched"
+       prop_scale="0.26458334"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       fuse_tolerance="0" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect4807-1"
+       is_visible="true"
+       pattern="m 686.80424,539.65513 c 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 z"
+       copytype="single_stretched"
+       prop_scale="0.26458333"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       fuse_tolerance="0" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect4834-8"
+       is_visible="true"
+       pattern="m -80.741443,12.615165 c 0,-2.7600004 2.24,-5.0000004 5,-5.0000004 2.76,0 5,2.24 5,5.0000004 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 z"
+       copytype="single_stretched"
+       prop_scale="0.41731865"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       fuse_tolerance="0" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect4830-3"
+       is_visible="true"
+       pattern="m -533.1038,-237.43626 c 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 z"
+       copytype="single_stretched"
+       prop_scale="0.41731865"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       fuse_tolerance="0" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect4834-3"
+       is_visible="true"
+       pattern="m -535.49853,-237.80468 c 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 z"
+       copytype="single_stretched"
+       prop_scale="0.41731865"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       fuse_tolerance="0" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.2697758"
+     inkscape:cx="-722.27167"
+     inkscape:cy="3604.7227"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:measure-start="0,0"
+     inkscape:measure-end="0,0"
+     inkscape:window-width="1024"
+     inkscape:window-height="719"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     units="mm"
+     inkscape:pagecheckerboard="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     objecttolerance="1"
+     inkscape:snap-path-clip="true"
+     guidetolerance="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(271.81332,268.36891)">
+    <rect
+       transform="matrix(0.99937268,-0.03541543,0.02942886,0.99956688,0,0)"
+       ry="41.247562"
+       rx="42.946156"
+       y="292.99356"
+       x="286.98669"
+       height="145.20717"
+       width="62.960964"
+       id="rect4981"
+       style="opacity:1;fill:#6a3c1e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.94539642;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new" />
+    <g
+       transform="matrix(1.5972414,0,0,1.4395627,-99.56703,592.68472)"
+       id="g4989">
+      <rect
+         style="opacity:1;fill:#6a3c1e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.23997021;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new"
+         id="rect4983"
+         width="39.424278"
+         height="100.86073"
+         x="250.20604"
+         y="-154.84216"
+         transform="matrix(0.99986158,-0.01663775,0.00386845,0.99999252,0,0)"
+         ry="19.712139" />
+      <ellipse
+         style="opacity:1;fill:#6a3c1e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.76115179;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new"
+         id="ellipse4985"
+         cx="261.8876"
+         cy="-134.27411"
+         rx="17.265406"
+         ry="18.943987" />
+      <rect
+         style="opacity:1;fill:#925228;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.53701794;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new"
+         id="rect4987"
+         width="40.316437"
+         height="2.6650116"
+         x="-120.16977"
+         y="-285.85089"
+         rx="4.7795601"
+         ry="2.6650116"
+         transform="rotate(89.461478)" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4991"
+       d="m 323.89964,468.23831 a 48.535711,47.453241 0 0 0 -48.40754,44.95491 h 96.85352 a 48.535711,47.453241 0 0 0 -48.44598,-44.95491 z"
+       style="opacity:1;fill:#6a3c1e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.19404984;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new" />
+    <rect
+       transform="rotate(8.7070602)"
+       ry="53.341892"
+       rx="60.920273"
+       y="44.322662"
+       x="200.32768"
+       height="187.78381"
+       width="89.311806"
+       id="rect4907"
+       style="opacity:1;fill:#1b0f07;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10.76141453;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new" />
+    <rect
+       transform="rotate(17.059747)"
+       ry="45.519283"
+       rx="51.986282"
+       y="158.01756"
+       x="233.64279"
+       height="160.24522"
+       width="76.214195"
+       id="rect4909"
+       style="opacity:1;fill:#1b0f07;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:9.18324852;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new" />
+    <rect
+       transform="matrix(0.99937268,-0.03541543,0.02942886,0.99956688,0,0)"
+       ry="41.247562"
+       rx="42.946156"
+       y="272.53302"
+       x="202.51265"
+       height="145.20714"
+       width="62.960964"
+       id="rect4993"
+       style="opacity:1;fill:#1b0f07;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.94539642;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new" />
+    <g
+       id="g4881"
+       transform="matrix(1.2999052,0,0,1.2999052,349.15303,375.16817)">
+      <path
+         style="opacity:1;fill:#1a1cc0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.76115131;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal"
+         d="m 12.919623,-160.21757 c -0.292917,-0.11593 -0.546112,-0.28943 -0.843062,-0.39904 -2.291103,-0.84568 -4.697816,-1.5015 -7.193893,-1.94647 -2.496077,-0.44497 -5.082938,-0.67817 -7.733459,-0.67817 h -88.925164 c -2.65052,0 -5.237378,0.23321 -7.733458,0.67817 -2.496067,0.44497 -4.902787,1.10079 -7.193927,1.94647 -1.61506,0.59617 -3.09241,1.39662 -4.58425,2.17317 0,33.4295 0,60.508991 0,93.938487 0,18.566442 17.069675,33.513524 38.273914,33.513524 h 47.65754 c 21.204234,0 38.275759,-14.947082 38.275759,-33.513524 z"
+         id="path4873"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Ghuide\Desktop\learning\0.0 fatec\0.0 the toekoms of orixás\1.0 artwork and animations\2.0 NPC\0.0 elder\0.0 parts\body.png"
+         inkscape:export-xdpi="25"
+         inkscape:export-ydpi="25"
+         sodipodi:nodetypes="ccsssccccsssc" />
+      <path
+         style="opacity:1;fill:#6a3c1e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.76115131;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal"
+         d="m -9.638184,-159.4045 h 6.787393 c 2.650521,0 5.237382,0.23321 7.733459,0.67818 2.496077,0.44497 4.90279,1.1008 7.193893,1.94647 0.296918,0.10959 0.550037,0.28314 0.843062,0.39904 v -45.26141 c 0,-8.70496 -3.850884,-16.53853 -10.022783,-22.48473 0.09096,0.54696 0.24797,1.02735 0.311055,1.59988 0.186695,1.69635 0.250864,3.50221 0.189243,5.38982 -0.06169,1.88762 -0.249065,3.85695 -0.563881,5.88627 -0.315033,2.02935 -0.758013,4.117 -1.331998,6.23849 -0.573995,2.12149 -1.278572,4.27672 -2.116951,6.4408 z"
+         id="path4875"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Ghuide\Desktop\learning\0.0 fatec\0.0 the toekoms of orixás\1.0 artwork and animations\2.0 NPC\0.0 elder\0.0 parts\body.png"
+         inkscape:export-xdpi="25"
+         inkscape:export-ydpi="25"
+         sodipodi:nodetypes="cssccsccccccc" />
+      <path
+         style="opacity:1;fill:#422512;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.76115131;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal"
+         d="m -16.189545,-234.08979 c -2.949344,-0.63364 -5.987912,-1.06597 -9.166591,-1.06597 h -47.65754 c -21.204259,0 -38.273894,14.94707 -38.273894,33.51354 v 47.03554 c 1.49182,-0.77655 2.96917,-1.577 4.58424,-2.17317 2.29111,-0.84567 4.69785,-1.5015 7.193917,-1.94647 2.49609,-0.44497 5.082938,-0.67818 7.733458,-0.67818 h 34.515101 c 0.502389,-1.71342 6.31763,-3.4329 6.990865,-5.17062 l 17.185979,-46.57469 c 0.838379,-2.16408 1.76946,-4.23154 2.774543,-6.18602 1.005104,-1.95448 2.084135,-3.79593 3.21852,-5.50784 1.134385,-1.71191 2.323876,-3.29398 3.550129,-4.73037 1.226253,-1.4364 2.488618,-2.72759 3.769316,-3.8555 1.183398,-1.04223 2.38283,-1.90848 3.581957,-2.66025 z"
+         id="path4877"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Ghuide\Desktop\learning\0.0 fatec\0.0 the toekoms of orixás\1.0 artwork and animations\2.0 NPC\0.0 elder\0.0 parts\body.png"
+         inkscape:export-xdpi="25"
+         inkscape:export-ydpi="25"
+         sodipodi:nodetypes="cssscccsccccsccc" />
+      <path
+         style="opacity:1;fill:#1a1cc0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.10270643;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal"
+         d="m -16.189545,-234.08979 c -1.323302,0.75177 -2.647028,1.61802 -3.953039,2.66025 -1.413317,1.12791 -2.806481,2.4191 -4.15976,3.8555 -1.353213,1.43639 -2.665957,3.01846 -3.917839,4.73037 -1.251882,1.71191 -2.442717,3.55336 -3.55195,5.50784 -1.109148,1.95448 -2.136661,4.02194 -3.061909,6.18602 l -23.709765,46.57469 c -0.742922,1.73772 -1.320766,3.4572 -1.875215,5.17062 h 51.45945 l 9.956989,-39.16719 c 0.925238,-2.16408 1.702754,-4.31931 2.336235,-6.4408 0.633448,-2.12149 1.122276,-4.20914 1.469941,-6.23849 0.347664,-2.02932 0.554459,-3.99865 0.622357,-5.88627 0.06819,-1.88761 -0.0033,-3.69347 -0.20918,-5.38982 -0.06928,-0.57253 -0.242527,-1.05292 -0.343317,-1.59988 -5.538374,-4.83503 -12.785857,-8.35142 -21.063431,-9.96284 z"
+         id="path4879"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="C:\Users\Ghuide\Desktop\learning\0.0 fatec\0.0 the toekoms of orixás\1.0 artwork and animations\2.0 NPC\0.0 elder\0.0 parts\body.png"
+         inkscape:export-xdpi="25"
+         inkscape:export-ydpi="25"
+         sodipodi:nodetypes="cccsccccccccccccc" />
+    </g>
+    <g
+       id="g4851"
+       transform="matrix(1.2999052,0,0,1.2999052,-138.39686,-153.90932)"
+       inkscape:export-filename="F:\MyGames\The Toekoms of orixas\Assest\Boss\Ogum\Inkscape\Parts\bitmap.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25">
+      <path
+         sodipodi:nodetypes="ccsssccccsssc"
+         inkscape:export-ydpi="25"
+         inkscape:export-xdpi="25"
+         inkscape:export-filename="C:\Users\Ghuide\Desktop\learning\0.0 fatec\0.0 the toekoms of orixás\1.0 artwork and animations\2.0 NPC\0.0 elder\0.0 parts\body.png"
+         inkscape:connector-curvature="0"
+         id="path4958"
+         d="m 12.919623,-160.21757 c -0.292917,-0.11593 -0.546112,-0.28943 -0.843062,-0.39904 -2.291103,-0.84568 -4.697816,-1.5015 -7.193893,-1.94647 -2.496077,-0.44497 -5.082938,-0.67817 -7.733459,-0.67817 h -88.925164 c -2.65052,0 -5.237378,0.23321 -7.733458,0.67817 -2.496067,0.44497 -4.902787,1.10079 -7.193927,1.94647 -1.61506,0.59617 -3.09241,1.39662 -4.58425,2.17317 0,33.4295 0,60.508991 0,93.938487 0,18.566442 17.069675,33.513524 38.273914,33.513524 h 47.65754 c 21.204234,0 38.275759,-14.947082 38.275759,-33.513524 z"
+         style="opacity:1;fill:#1a1cc0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.76115131;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal" />
+      <path
+         sodipodi:nodetypes="cssccsccccccc"
+         inkscape:export-ydpi="25"
+         inkscape:export-xdpi="25"
+         inkscape:export-filename="C:\Users\Ghuide\Desktop\learning\0.0 fatec\0.0 the toekoms of orixás\1.0 artwork and animations\2.0 NPC\0.0 elder\0.0 parts\body.png"
+         inkscape:connector-curvature="0"
+         id="path4963"
+         d="m -9.638184,-159.4045 h 6.787393 c 2.650521,0 5.237382,0.23321 7.733459,0.67818 2.496077,0.44497 4.90279,1.1008 7.193893,1.94647 0.296918,0.10959 0.550037,0.28314 0.843062,0.39904 v -45.26141 c 0,-8.70496 -3.850884,-16.53853 -10.022783,-22.48473 0.09096,0.54696 0.24797,1.02735 0.311055,1.59988 0.186695,1.69635 0.250864,3.50221 0.189243,5.38982 -0.06169,1.88762 -0.249065,3.85695 -0.563881,5.88627 -0.315033,2.02935 -0.758013,4.117 -1.331998,6.23849 -0.573995,2.12149 -1.278572,4.27672 -2.116951,6.4408 z"
+         style="opacity:1;fill:#6a3c1e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.76115131;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal" />
+      <path
+         sodipodi:nodetypes="cssscccsccccsccc"
+         inkscape:export-ydpi="25"
+         inkscape:export-xdpi="25"
+         inkscape:export-filename="C:\Users\Ghuide\Desktop\learning\0.0 fatec\0.0 the toekoms of orixás\1.0 artwork and animations\2.0 NPC\0.0 elder\0.0 parts\body.png"
+         inkscape:connector-curvature="0"
+         id="path4961"
+         d="m -16.189545,-234.08979 c -2.949344,-0.63364 -5.987912,-1.06597 -9.166591,-1.06597 h -47.65754 c -21.204259,0 -38.273894,14.94707 -38.273894,33.51354 v 47.03554 c 1.49182,-0.77655 2.96917,-1.577 4.58424,-2.17317 2.29111,-0.84567 4.69785,-1.5015 7.193917,-1.94647 2.49609,-0.44497 5.082938,-0.67818 7.733458,-0.67818 h 34.515101 c 0.502389,-1.71342 6.31763,-3.4329 6.990865,-5.17062 l 17.185979,-46.57469 c 0.838379,-2.16408 1.76946,-4.23154 2.774543,-6.18602 1.005104,-1.95448 2.084135,-3.79593 3.21852,-5.50784 1.134385,-1.71191 2.323876,-3.29398 3.550129,-4.73037 1.226253,-1.4364 2.488618,-2.72759 3.769316,-3.8555 1.183398,-1.04223 2.38283,-1.90848 3.581957,-2.66025 z"
+         style="opacity:1;fill:#422512;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.76115131;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal" />
+      <path
+         sodipodi:nodetypes="cccsccccccccccccc"
+         inkscape:export-ydpi="25"
+         inkscape:export-xdpi="25"
+         inkscape:export-filename="C:\Users\Ghuide\Desktop\learning\0.0 fatec\0.0 the toekoms of orixás\1.0 artwork and animations\2.0 NPC\0.0 elder\0.0 parts\body.png"
+         inkscape:connector-curvature="0"
+         id="rect4877"
+         d="m -16.189545,-234.08979 c -1.323302,0.75177 -2.647028,1.61802 -3.953039,2.66025 -1.413317,1.12791 -2.806481,2.4191 -4.15976,3.8555 -1.353213,1.43639 -2.665957,3.01846 -3.917839,4.73037 -1.251882,1.71191 -2.442717,3.55336 -3.55195,5.50784 -1.109148,1.95448 -2.136661,4.02194 -3.061909,6.18602 l -23.709765,46.57469 c -0.742922,1.73772 -1.320766,3.4572 -1.875215,5.17062 h 51.45945 l 9.956989,-39.16719 c 0.925238,-2.16408 1.702754,-4.31931 2.336235,-6.4408 0.633448,-2.12149 1.122276,-4.20914 1.469941,-6.23849 0.347664,-2.02932 0.554459,-3.99865 0.622357,-5.88627 0.06819,-1.88761 -0.0033,-3.69347 -0.20918,-5.38982 -0.06928,-0.57253 -0.242527,-1.05292 -0.343317,-1.59988 -5.538374,-4.83503 -12.785857,-8.35142 -21.063431,-9.96284 z"
+         style="opacity:1;fill:#1a1cc0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.10270643;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal" />
+    </g>
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.15195036;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new"
+       id="rect4725-9-2-1-6"
+       width="105.6532"
+       height="16.2917"
+       x="-423.11594"
+       y="442.20215"
+       rx="12.525314"
+       ry="16.2917"
+       inkscape:export-filename="C:\Users\Ghuide\Desktop\learning\0.0 fatec\0.0 the toekoms of orixás\1.0 artwork and animations\2.0 NPC\0.0 elder\0.0 parts\mouth idle.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.03093004;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new"
+       id="rect4725-9-2-1-5-8"
+       width="22.737345"
+       height="32.500816"
+       x="-346.24213"
+       y="389.84891"
+       rx="2.6955392"
+       ry="32.500816"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.44494247;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new"
+       id="rect4725-9-2-1-1-4"
+       width="55.155575"
+       height="16.2917"
+       x="-425.70538"
+       y="400.87909"
+       rx="6.5387592"
+       ry="16.2917"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <rect
+       style="opacity:1;fill:#6b3d1d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:9.66268635;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new"
+       id="rect5269-3"
+       width="193.0835"
+       height="120.9342"
+       x="-465.23975"
+       y="254.68704"
+       rx="14.045769"
+       ry="18.401695" />
+    <g
+       id="g5051"
+       inkscape:export-filename="F:\MyGames\The Toekoms of orixas\Assest\Boss\Ogum\Inkscape\Parts\bitmap3.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25">
+      <g
+         transform="matrix(1.2999052,0,0,1.2999052,-138.39686,-153.90932)"
+         id="g4637">
+        <circle
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.17875338;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new"
+           id="path4727-2-4"
+           cx="-197.76726"
+           cy="333.76971"
+           r="14.552069"
+           inkscape:export-filename="C:\Users\Ghuide\Desktop\learning\0.0 fatec\0.0 the toekoms of orixás\1.0 artwork and animations\2.0 NPC\0.0 elder\0.0 parts\eyes idle.png"
+           inkscape:export-xdpi="25"
+           inkscape:export-ydpi="25" />
+        <path
+           style="opacity:1;fill:#6ecade;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78433716;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new"
+           id="path4727-2-8-5"
+           sodipodi:type="arc"
+           sodipodi:cx="-203.16229"
+           sodipodi:cy="335.10382"
+           sodipodi:rx="8.1685476"
+           sodipodi:ry="8.1685476"
+           sodipodi:start="6.1202128"
+           sodipodi:end="5.8975854"
+           d="m -195.10198,333.77846 a 8.1685476,8.1685476 0 0 1 -6.28862,9.29946 8.1685476,8.1685476 0 0 1 -9.63489,-5.76157 8.1685476,8.1685476 0 0 1 5.21668,-9.94047 8.1685476,8.1685476 0 0 1 10.21527,4.65563 l -7.56875,3.07231 z"
+           inkscape:export-filename="C:\Users\Ghuide\Desktop\learning\0.0 fatec\0.0 the toekoms of orixás\1.0 artwork and animations\2.0 NPC\0.0 elder\0.0 parts\eyes idle.png"
+           inkscape:export-xdpi="25"
+           inkscape:export-ydpi="25" />
+        <circle
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.17875338;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new"
+           id="path4727-2-3-4"
+           cx="-159.60736"
+           cy="333.97424"
+           r="14.552069"
+           inkscape:export-filename="C:\Users\Ghuide\Desktop\learning\0.0 fatec\0.0 the toekoms of orixás\1.0 artwork and animations\2.0 NPC\0.0 elder\0.0 parts\eyes idle.png"
+           inkscape:export-xdpi="25"
+           inkscape:export-ydpi="25" />
+        <path
+           style="opacity:1;fill:#6ecade;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78433716;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new"
+           id="path4727-2-8-9-7"
+           sodipodi:type="arc"
+           sodipodi:cx="-165.00237"
+           sodipodi:cy="335.30835"
+           sodipodi:rx="8.1685476"
+           sodipodi:ry="8.1685476"
+           sodipodi:start="6.1202128"
+           sodipodi:end="5.8975854"
+           d="m -156.94206,333.98299 a 8.1685476,8.1685476 0 0 1 -6.28861,9.29946 8.1685476,8.1685476 0 0 1 -9.63489,-5.76157 8.1685476,8.1685476 0 0 1 5.21667,-9.94047 8.1685476,8.1685476 0 0 1 10.21528,4.65563 l -7.56876,3.07231 z"
+           inkscape:export-filename="C:\Users\Ghuide\Desktop\learning\0.0 fatec\0.0 the toekoms of orixás\1.0 artwork and animations\2.0 NPC\0.0 elder\0.0 parts\eyes idle.png"
+           inkscape:export-xdpi="25"
+           inkscape:export-ydpi="25" />
+      </g>
+    </g>
+    <g
+       id="g5057"
+       inkscape:export-filename="F:\MyGames\The Toekoms of orixas\Assest\Boss\Ogum\Inkscape\Parts\g5057.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25">
+      <path
+         inkscape:export-ydpi="25"
+         inkscape:export-xdpi="25"
+         inkscape:connector-curvature="0"
+         id="path5317-06"
+         d="m -368.00961,314.71619 a 18.91631,18.91631 0 0 0 -0.18284,2.47667 18.91631,18.91631 0 0 0 18.91716,18.91469 18.91631,18.91631 0 0 0 18.91471,-18.91469 18.91631,18.91631 0 0 0 -0.1852,-2.47667 z"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.13207817;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new" />
+      <path
+         inkscape:export-ydpi="25"
+         inkscape:export-xdpi="25"
+         inkscape:connector-curvature="0"
+         id="path5312-1"
+         d="m -366.02483,314.70889 a 10.618338,10.618338 0 0 0 -0.48465,7.09393 10.618338,10.618338 0 0 0 12.52459,7.48844 10.618338,10.618338 0 0 0 8.17274,-12.08866 l -10.4765,1.72418 9.83848,-3.99384 a 10.618338,10.618338 0 0 0 -0.0975,-0.22404 z"
+         style="opacity:1;fill:#6ecade;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.31946921;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new" />
+      <path
+         inkscape:export-ydpi="25"
+         inkscape:export-xdpi="25"
+         inkscape:connector-curvature="0"
+         id="path5317-0-1"
+         d="m -415.44824,314.71619 a 18.91631,18.91631 0 0 0 -0.18285,2.47667 18.91631,18.91631 0 0 0 18.91712,18.9147 18.91631,18.91631 0 0 0 18.91471,-18.9147 18.91631,18.91631 0 0 0 -0.18521,-2.47667 z"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.13207817;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new" />
+      <path
+         inkscape:export-ydpi="25"
+         inkscape:export-xdpi="25"
+         inkscape:connector-curvature="0"
+         id="path5312-3-4"
+         d="m -413.46346,314.7089 a 10.618338,10.618338 0 0 0 -0.48463,7.09392 10.618338,10.618338 0 0 0 12.52458,7.48844 10.618338,10.618338 0 0 0 8.17273,-12.08866 l -10.4765,1.72419 9.83847,-3.99385 a 10.618338,10.618338 0 0 0 -0.0975,-0.22403 z"
+         style="opacity:1;fill:#6ecade;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.31946921;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new" />
+    </g>
+    <g
+       id="g5061"
+       inkscape:export-filename="F:\MyGames\The Toekoms of orixas\Assest\Boss\Ogum\Inkscape\Parts\g5061.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25">
+      <rect
+         inkscape:export-ydpi="25"
+         inkscape:export-xdpi="25"
+         ry="4.6254086"
+         rx="4.4236417"
+         y="351.34012"
+         x="-414.39758"
+         height="4.6254086"
+         width="37.314198"
+         id="rect4725-9-3-4-3"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.94805133;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new" />
+      <rect
+         inkscape:export-ydpi="25"
+         inkscape:export-xdpi="25"
+         ry="4.6254086"
+         rx="4.4236417"
+         y="350.71667"
+         x="-368.26395"
+         height="4.6254086"
+         width="37.314198"
+         id="rect4725-9-3-4-6-1"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.94805133;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new" />
+    </g>
+    <rect
+       style="opacity:1;fill:#1b0f07;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10.76141453;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new"
+       id="rect4965-39-7-1"
+       width="89.311806"
+       height="187.78381"
+       x="5.0765219"
+       y="-509.00708"
+       rx="60.920273"
+       ry="53.341892"
+       transform="rotate(8.7070602)"
+       inkscape:export-filename="F:\MyGames\The Toekoms of orixas\Assest\Boss\Ogum\Inkscape\Parts\rect4965-39-7-1.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <rect
+       style="opacity:1;fill:#1b0f07;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:9.18324852;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new"
+       id="rect4965-2-3-9-4"
+       width="76.214195"
+       height="160.24522"
+       x="-20.009745"
+       y="-309.24384"
+       rx="51.986282"
+       ry="45.519283"
+       transform="rotate(17.059747)"
+       inkscape:export-filename="F:\MyGames\The Toekoms of orixas\Assest\Boss\Ogum\Inkscape\Parts\rect4965-2-3-9-4.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <rect
+       style="opacity:1;fill:#6a3c1e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.94539642;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new"
+       id="rect4965-0-6-7-3"
+       width="62.960964"
+       height="145.20717"
+       x="269.42957"
+       y="-519.8808"
+       rx="42.946156"
+       ry="41.247562"
+       transform="matrix(0.99937268,-0.03541543,0.02942886,0.99956688,0,0)"
+       inkscape:export-filename="F:\MyGames\The Toekoms of orixas\Assest\Boss\Ogum\Inkscape\Parts\rect4965-0-6-7-3.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <g
+       id="g4700"
+       transform="matrix(1.5972414,0,0,1.4395627,-152.75436,-152.50621)"
+       inkscape:export-filename="F:\MyGames\The Toekoms of orixas\Assest\Boss\Ogum\Inkscape\Parts\g4700.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25">
+      <rect
+         ry="19.712139"
+         transform="matrix(0.99986158,-0.01663775,0.00386845,0.99999252,0,0)"
+         y="-154.84216"
+         x="250.20604"
+         height="100.86073"
+         width="39.424278"
+         id="rect4965-0-9-7-6-3"
+         style="opacity:1;fill:#6a3c1e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.23997021;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new" />
+      <ellipse
+         ry="18.943987"
+         rx="17.265406"
+         cy="-134.27411"
+         cx="261.8876"
+         id="path5030-8-6-3"
+         style="opacity:1;fill:#6a3c1e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.76115179;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new" />
+      <rect
+         transform="rotate(89.461478)"
+         ry="2.6650116"
+         rx="4.7795601"
+         y="-285.85089"
+         x="-120.16977"
+         height="2.6650116"
+         width="40.316437"
+         id="rect4725-9-2-2-5-8-0-8"
+         style="opacity:1;fill:#925228;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.53701794;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new" />
+    </g>
+    <rect
+       style="opacity:1;fill:#1b0f07;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.94539642;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new"
+       id="rect4965-0-8-7"
+       width="62.960964"
+       height="145.20714"
+       x="402.84344"
+       y="-525.87567"
+       rx="42.946156"
+       ry="41.247562"
+       transform="matrix(0.99937268,-0.03541543,0.02942886,0.99956688,0,0)"
+       inkscape:export-filename="F:\MyGames\The Toekoms of orixas\Assest\Boss\Ogum\Inkscape\Parts\rect4965-0-8-7.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <g
+       id="g4704"
+       transform="matrix(1.5972414,0,0,1.4395627,-179.30472,-157.03652)"
+       inkscape:export-filename="F:\MyGames\The Toekoms of orixas\Assest\Boss\Ogum\Inkscape\Parts\g4704.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25">
+      <rect
+         ry="19.712139"
+         transform="matrix(0.99986158,-0.01663775,0.00386845,0.99999252,0,0)"
+         y="-154.20894"
+         x="356.82114"
+         height="100.86073"
+         width="39.424278"
+         id="rect4965-0-9-5-9"
+         style="opacity:1;fill:#1b0f07;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.23997021;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new" />
+      <ellipse
+         ry="18.943987"
+         rx="17.265406"
+         cy="-138.12773"
+         cx="367.73087"
+         id="path5030-5-2"
+         style="opacity:1;fill:#1b0f07;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.76115179;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new" />
+    </g>
+    <path
+       style="opacity:1;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal"
+       d="m -386.46123,-87.171294 v -48.590746 c -0.2256,-0.0177 -0.44243,-0.039 -0.6695,-0.0559 v 48.778888 c 0.0565,-0.013 0.11049,-0.02626 0.16709,-0.03874 0.16255,-0.0338 0.33917,-0.06005 0.50241,-0.09346 z"
+       id="path5094"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal"
+       d="m -321.44453,-90.88134 c 2.40248,0.170339 4.79518,0.355914 7.14491,0.591703 0.50191,0.05044 0.98073,0.121802 1.47965,0.175137 v -42.6411 c -1.17955,0.12414 -2.33396,0.27287 -3.52915,0.38054 -1.67835,0.15116 -3.39263,0.25284 -5.09541,0.37097 z"
+       id="path5150"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal"
+       d="m -374.76624,-133.77845 c -2.20766,-0.31699 -4.39966,-0.6461 -6.51873,-1.02168 -1.55905,-0.28896 -3.09014,-0.5935 -4.59107,-0.91324 -0.18062,-0.0222 -0.38802,-0.0333 -0.58519,-0.0486 v 48.590738 c 2.28587,-0.469305 4.6244,-0.911311 7.03531,-1.309485 1.5175,-0.25057 3.09994,-0.45524 4.65968,-0.676406 z"
+       id="path5159"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal"
+       d="m -255.48161,-69.930963 c 0.44001,0.594226 0.8425,1.191441 1.1627,1.793882 0.35678,0.671011 0.61166,1.346767 0.81781,2.024213 0.17461,-0.01924 0.35887,-0.03107 0.53308,-0.05057 3.52126,-0.394183 6.97077,-0.839829 10.3422,-1.334404 3.37144,-0.494549 6.66476,-1.037988 9.87428,-1.62756 3.20951,-0.589572 6.33523,-1.225433 9.37071,-1.904647 3.03549,-0.679213 5.98063,-1.401792 8.82998,-2.165252 1.42467,-0.38173 2.82547,-0.773574 4.20134,-1.175361 1.37587,-0.401788 2.72709,-0.813572 4.05265,-1.234767 1.32555,-0.42117 2.62525,-0.851958 3.89897,-1.291872 1.27372,-0.439888 2.52146,-0.888706 3.74184,-1.34665 1.22037,-0.45793 2.41346,-0.924999 3.57897,-1.400323 1.16553,-0.47531 2.3035,-0.958875 3.41266,-1.450902 1.10915,-0.492027 2.1897,-0.992296 3.24097,-1.500351 1.05127,-0.508028 2.07319,-1.024052 3.06507,-1.547472 0.99185,-0.523394 1.95359,-1.05421 2.88457,-1.592306 0.93093,-0.538095 1.83092,-1.08351 2.69946,-1.635631 0.86852,-0.552109 1.70554,-1.111159 2.51013,-1.676631 0.80462,-0.565459 1.57671,-1.137183 2.31587,-1.715329 0.73913,-0.57812 1.44554,-1.162362 2.11771,-1.752493 0.67219,-0.590131 1.31053,-1.186307 1.91424,-1.78776 0.60371,-0.601479 1.1728,-1.2086 1.70652,-1.820725 0.5337,-0.612151 1.03198,-1.229268 1.4942,-1.85139 0.46222,-0.622109 0.8881,-1.249053 1.27731,-1.880508 0.38919,-0.631428 0.74151,-1.267238 1.05618,-1.907318 0.31467,-0.64009 0.59184,-1.28456 0.83045,-1.93262 0.23862,-0.64806 0.43869,-1.29988 0.59975,-1.95523 0.16107,-0.65537 0.28284,-1.31432 0.36484,-1.97633 0.082,-0.662 0.12428,-1.32712 0.1257,-1.99509 0,-0.67232 -0.0428,-1.34146 -0.1253,-2.00773 -0.0825,-0.66624 -0.20536,-1.32946 -0.3679,-1.98896 -0.16256,-0.65948 -0.36482,-1.31542 -0.60589,-1.96748 -0.24107,-0.65207 -0.52124,-1.30019 -0.83928,-1.94412 -0.31802,-0.64396 -0.67384,-1.28369 -1.06728,-1.91882 -0.39347,-0.63518 -0.82455,-1.26596 -1.29187,-1.89164 -0.46734,-0.62567 -0.97104,-1.24623 -1.51068,-1.86171 -0.53967,-0.61552 -1.11528,-1.22605 -1.72568,-1.8307 -0.61044,-0.60466 -1.25565,-1.20342 -1.93531,-1.79658 -0.67966,-0.59314 -1.39376,-1.18038 -2.1411,-1.76131 -0.74736,-0.58094 -1.52807,-1.15571 -2.34153,-1.72376 -0.81348,-0.56805 -1.65969,-1.12943 -2.53774,-1.68391 -0.87808,-0.55448 -1.78788,-1.10191 -2.72897,-1.64215 -0.9411,-0.54021 -1.91342,-1.07315 -2.91601,-1.59845 -1.00257,-0.52528 -2.03549,-1.04315 -3.09801,-1.55283 -1.06253,-0.50968 -2.15456,-1.01116 -3.27546,-1.50456 -1.12091,-0.49338 -2.27092,-0.97871 -3.44869,-1.45512 -1.17775,-0.4764 -2.38348,-0.94386 -3.61652,-1.40261 -1.23304,-0.45876 -2.49338,-0.90857 -3.78016,-1.34896 -1.28681,-0.44042 -2.59985,-0.87164 -3.93883,-1.29303 -1.339,-0.42139 -2.70401,-0.83308 -4.09365,-1.23475 -1.38964,-0.40171 -2.80399,-0.79331 -4.24274,-1.17461 -2.87749,-0.7626 -5.85159,-1.48365 -8.9162,-2.16064 -3.0646,-0.677 -6.2199,-1.30993 -9.45924,-1.89583 -3.23933,-0.58592 -6.56265,-1.12477 -9.96434,-1.61417 -3.40167,-0.48938 -6.88177,-0.92937 -10.43339,-1.31677 -0.32875,-0.0359 -0.67563,-0.0578 -1.0056,-0.0927 -0.48858,0.69542 -1.03186,1.38675 -1.68161,2.0683 -0.0444,0.0467 -0.0989,0.0922 -0.14409,0.13872 0.10035,0.0181 0.20796,0.0317 0.3081,0.0498 3.23937,0.58591 6.39465,1.21883 9.45925,1.89584 3.06461,0.67699 6.03871,1.39806 8.9162,2.16064 1.43875,0.3813 2.8531,0.77289 4.24274,1.17459 1.38964,0.40168 2.75466,0.81338 4.09365,1.23477 1.33896,0.42139 2.65202,0.8526 3.93883,1.29303 1.28678,0.44039 2.54712,0.8902 3.78016,1.34896 1.23304,0.45875 2.43877,0.92621 3.61652,1.40261 1.17777,0.4764 2.32778,0.96173 3.44869,1.45511 1.1209,0.49341 2.21293,0.99489 3.27546,1.50457 1.06252,0.50968 2.09546,1.02754 3.09801,1.55282 1.00259,0.52531 1.97491,1.05824 2.91601,1.59846 0.94109,0.54024 1.85089,1.08767 2.72897,1.64214 0.87805,0.55446 1.72424,1.11587 2.53774,1.68391 0.81346,0.56806 1.59417,1.1428 2.34153,1.72377 0.74734,0.58091 1.46144,1.16817 2.1411,1.7613 0.67966,0.59316 1.32485,1.19193 1.93529,1.79659 0.61042,0.60465 1.18603,1.21515 1.72569,1.83067 0.53965,0.6155 1.04335,1.23609 1.51069,1.86174 0.46732,0.62569 0.8984,1.25646 1.29187,1.89163 0.39344,0.63514 0.74926,1.27486 1.06728,1.91882 0.31804,0.64393 0.59821,1.29205 0.83928,1.94412 0.24107,0.65206 0.44331,1.30799 0.60589,1.96749 0.16254,0.65949 0.28541,1.32272 0.3679,1.98896 0.0824,0.66626 0.1253,1.3354 0.1253,2.00773 -0.002,0.66797 -0.0437,1.33309 -0.12569,1.99509 -0.082,0.662 -0.20377,1.32095 -0.36484,1.97632 -0.16105,0.65535 -0.36113,1.30718 -0.59975,1.95523 -0.23861,0.64807 -0.51578,1.29254 -0.83045,1.93262 -0.31467,0.64009 -0.66701,1.2759 -1.05618,1.90733 -0.38922,0.631449 -0.81508,1.258393 -1.2773,1.880502 -0.46222,0.622108 -0.96051,1.239225 -1.49421,1.85139 -0.53372,0.612125 -1.10281,1.219246 -1.70652,1.820725 -0.60371,0.601453 -1.24205,1.197629 -1.91424,1.78776 -0.67217,0.590131 -1.37859,1.174386 -2.11771,1.752493 -0.73915,0.578146 -1.51125,1.14987 -2.31586,1.715329 -0.8046,0.565472 -1.64164,1.124548 -2.51014,1.676631 -0.86856,0.552121 -1.76853,1.097536 -2.69948,1.635631 -0.93097,0.538096 -1.89269,1.068912 -2.88455,1.592306 -0.99188,0.52342 -2.0138,1.039443 -3.06507,1.547472 -1.05127,0.508055 -2.13181,1.008324 -3.24097,1.500351 -1.10915,0.492027 -2.24713,0.975605 -3.41266,1.450889 -1.1655,0.47535 -2.3586,0.942405 -3.57896,1.400336 -1.22039,0.457944 -2.46813,0.906762 -3.74185,1.34665 -1.27372,0.43994 -2.57341,0.870702 -3.89897,1.291872 -1.32556,0.421195 -2.67678,0.832979 -4.05265,1.234767 -1.37586,0.401787 -2.77667,0.793631 -4.20133,1.175361 -2.84935,0.76346 -5.79449,1.486039 -8.82999,2.165252 -2.97365,0.665383 -6.03905,1.286529 -9.17985,1.865949 z"
+       id="path5197"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal"
+       d="m -255.48161,-69.930963 c 3.14081,-0.57942 6.20621,-1.200566 9.17986,-1.865949 3.03549,-0.679213 5.98063,-1.401792 8.82998,-2.165252 1.42467,-0.38173 2.82547,-0.773574 4.20134,-1.175361 1.37587,-0.401788 2.72709,-0.813572 4.05265,-1.234767 1.32555,-0.42117 2.62525,-0.851932 3.89897,-1.291872 1.27372,-0.439888 2.52146,-0.888706 3.74184,-1.34665 1.22037,-0.457931 2.41347,-0.924986 3.57897,-1.400336 1.16553,-0.475284 2.30351,-0.958862 3.41266,-1.450889 1.10915,-0.492027 2.1897,-0.992296 3.24097,-1.500351 1.05127,-0.508029 2.07319,-1.024052 3.06507,-1.547472 0.99185,-0.523394 1.95357,-1.05421 2.88455,-1.592306 0.93095,-0.538095 1.83092,-1.08351 2.69948,-1.635631 0.8685,-0.552083 1.70554,-1.111159 2.51013,-1.676631 0.80461,-0.565459 1.57671,-1.137183 2.31587,-1.715329 0.73911,-0.578107 1.44554,-1.162362 2.11771,-1.752493 0.67218,-0.590131 1.31052,-1.186307 1.91423,-1.78776 0.60371,-0.601479 1.17281,-1.2086 1.70653,-1.820725 0.5337,-0.612165 1.03198,-1.229282 1.4942,-1.85139 0.46222,-0.622109 0.88808,-1.249053 1.27731,-1.880513 0.38917,-0.63142 0.74151,-1.26723 1.05618,-1.90732 0.31467,-0.64009 0.59184,-1.28455 0.83045,-1.93262 0.23862,-0.64806 0.43869,-1.29988 0.59975,-1.95523 0.16107,-0.65537 0.28284,-1.31432 0.36484,-1.97632 0.082,-0.662 0.12428,-1.32713 0.12568,-1.9951 0,-0.67232 -0.0429,-1.34146 -0.12529,-2.00773 -0.0825,-0.66624 -0.20536,-1.32946 -0.36791,-1.98895 -0.16258,-0.6595 -0.36481,-1.31543 -0.60588,-1.96749 -0.24107,-0.65207 -0.52124,-1.30019 -0.83928,-1.94412 -0.31803,-0.64396 -0.67384,-1.28369 -1.06729,-1.91882 -0.39346,-0.63517 -0.82454,-1.26594 -1.29186,-1.89164 -0.46734,-0.62564 -0.97104,-1.24623 -1.51069,-1.86173 -0.53966,-0.61552 -1.11528,-1.22602 -1.72569,-1.83067 -0.61044,-0.60467 -1.25563,-1.20343 -1.9353,-1.79659 -0.67966,-0.59313 -1.39376,-1.18039 -2.14109,-1.7613 -0.74736,-0.58097 -1.52807,-1.15571 -2.34153,-1.72377 -0.8135,-0.56805 -1.65969,-1.12945 -2.53775,-1.68391 -0.87807,-0.55447 -1.78787,-1.1019 -2.72897,-1.64214 -0.9411,-0.54022 -1.91341,-1.07315 -2.916,-1.59846 -1.00255,-0.52528 -2.0355,-1.04315 -3.09801,-1.55283 -1.06254,-0.50968 -2.15456,-1.01115 -3.27547,-1.50456 -1.1209,-0.49338 -2.27091,-0.97871 -3.44868,-1.45511 -1.17775,-0.4764 -2.38348,-0.94386 -3.61652,-1.40261 -1.23304,-0.45877 -2.49338,-0.90857 -3.78017,-1.34897 -1.2868,-0.44042 -2.59986,-0.87164 -3.93882,-1.29303 -1.339,-0.42139 -2.70401,-0.83308 -4.09365,-1.23476 -1.38965,-0.4017 -2.80399,-0.7933 -4.24274,-1.1746 -2.87749,-0.76257 -5.85159,-1.48364 -8.9162,-2.16063 -3.0646,-0.67701 -6.21989,-1.30993 -9.45925,-1.89584 -0.10009,-0.0181 -0.20779,-0.0318 -0.3081,-0.0498 -0.8256,0.85032 -1.76546,1.68857 -2.83551,2.50976 -1.12882,0.86623 -2.39044,1.71358 -3.78018,2.53891 -1.38956,0.82527 -2.90547,1.62747 -4.54202,2.4036 -1.6366,0.77616 -3.3918,1.52529 -5.25905,2.24456 -1.8673,0.71927 -3.84428,1.40776 -5.92357,2.06294 -2.07928,0.65511 -4.25822,1.27606 -6.52869,1.86057 -2.27046,0.58463 -4.62964,1.13205 -7.06867,1.64022 -2.43907,0.50801 -4.95492,0.97615 -7.53812,1.40261 -2.58317,0.42667 -5.2305,0.81113 -7.93207,1.15199 -1.54539,0.19493 -3.14082,0.34263 -4.71756,0.50855 v 42.641099 c 2.25362,0.240833 4.49775,0.491897 6.68353,0.791759 2.66977,0.366196 5.28141,0.775497 7.82515,1.226344 2.54371,0.450911 5.01632,0.942821 7.40858,1.473884 2.39224,0.530933 4.70114,1.10037 6.91805,1.706139 2.21694,0.605847 4.3391,1.247272 6.35854,1.921884 2.01943,0.674585 3.93363,1.3815 5.73542,2.118104 1.80172,0.736721 3.48876,1.502236 5.05479,2.293631 1.56604,0.791239 3.00917,1.607385 4.32396,2.445395 1.3148,0.838178 2.49956,1.697182 3.54985,2.57376 1.05023,0.876383 1.96474,1.769275 2.74008,2.675309 0.27134,0.317164 0.50351,0.637382 0.74041,0.957328 z"
+       id="path5179"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal"
+       d="m -254.24533,-154.28349 c -0.0497,0.11127 -0.10139,0.22238 -0.1552,0.3334 -0.13902,0.22257 -0.31278,0.44241 -0.4683,0.66376 0.32997,0.035 0.67686,0.0569 1.00559,0.0927 3.55163,0.3874 7.03173,0.82739 10.4334,1.31677 3.40169,0.4894 6.72501,1.02825 9.96433,1.61417 3.23935,0.5859 6.39465,1.21883 9.45925,1.89583 3.06461,0.67699 6.03871,1.39804 8.9162,2.16064 1.43875,0.3813 2.8531,0.7729 4.24274,1.17461 1.38964,0.40169 2.75465,0.81336 4.09365,1.23475 1.33898,0.42139 2.65202,0.85261 3.93882,1.29303 1.28679,0.44039 2.54713,0.8902 3.78017,1.34896 1.23304,0.45875 2.43877,0.92621 3.61652,1.40261 1.17777,0.4764 2.32778,0.96174 3.44869,1.45512 1.1209,0.4934 2.21293,0.99488 3.27546,1.50456 1.06252,0.50968 2.09544,1.02755 3.09801,1.55283 1.00259,0.5253 1.97491,1.05824 2.91601,1.59845 0.94109,0.54024 1.85089,1.08767 2.72897,1.64214 0.87805,0.55449 1.72426,1.11587 2.53774,1.68392 0.81346,0.56805 1.59417,1.14282 2.34153,1.72376 0.74734,0.58093 1.46144,1.16817 2.1411,1.76131 0.67966,0.59316 1.32487,1.19192 1.93531,1.79658 0.61042,0.60465 1.18601,1.21518 1.72567,1.8307 0.53965,0.6155 1.04335,1.23604 1.51069,1.86171 0.46732,0.62568 0.8984,1.25646 1.29187,1.89163 0.39344,0.63514 0.74926,1.27487 1.06728,1.91883 0.31804,0.64392 0.59821,1.29204 0.83928,1.94412 0.24107,0.65205 0.44333,1.308 0.60589,1.96748 0.16254,0.65949 0.28541,1.32272 0.3679,1.98896 0.0825,0.66627 0.12444,1.33541 0.1253,2.00773 -0.002,0.66797 -0.0437,1.33309 -0.1257,1.99509 -0.082,0.66201 -0.20377,1.32095 -0.36484,1.97633 -0.16106,0.65534 -0.36113,1.30717 -0.59975,1.95522 -0.23861,0.64807 -0.51578,1.29254 -0.83045,1.93263 -0.31467,0.64008 -0.66699,1.27589 -1.05618,1.90732 -0.38921,0.631455 -0.81509,1.258399 -1.27731,1.880508 -0.46222,0.622122 -0.9605,1.239239 -1.4942,1.85139 -0.53372,0.612125 -1.10282,1.219246 -1.70652,1.820725 -0.60371,0.601453 -1.24205,1.197629 -1.91424,1.78776 -0.67217,0.590131 -1.37858,1.174373 -2.11771,1.752493 -0.73916,0.578146 -1.51126,1.14987 -2.31587,1.715329 -0.80459,0.565472 -1.64161,1.124522 -2.51013,1.676631 -0.86854,0.552121 -1.76851,1.097536 -2.69946,1.635631 -0.93098,0.538096 -1.89272,1.068912 -2.88457,1.592306 -0.99188,0.52342 -2.0138,1.039444 -3.06507,1.547472 -1.05127,0.508055 -2.13182,1.008324 -3.24097,1.500351 -1.10916,0.492027 -2.24713,0.975592 -3.41266,1.450902 -1.16551,0.475324 -2.3586,0.942393 -3.57897,1.400323 -1.22038,0.457944 -2.46812,0.906762 -3.74184,1.34665 -1.27372,0.439914 -2.57342,0.870702 -3.89897,1.291872 -1.32556,0.421195 -2.67678,0.832979 -4.05265,1.234767 -1.37587,0.401787 -2.77667,0.793631 -4.20134,1.175361 -2.84935,0.76346 -5.79449,1.486039 -8.82998,2.165252 -3.03548,0.679214 -6.1612,1.315075 -9.37071,1.904647 -3.20952,0.589572 -6.50284,1.133011 -9.87428,1.62756 -3.37143,0.494575 -6.82094,0.940221 -10.3422,1.334404 -0.17421,0.01937 -0.35848,0.03133 -0.53307,0.05057 0.0785,0.258109 0.17296,0.515737 0.22955,0.774509 0.004,0.03757 0.009,0.07513 0.0117,0.112702 58.54338,-4.615145 100.23479,-23.109416 100.2799,-44.484055 -0.0277,-21.51449 -42.23859,-40.09425 -101.26595,-44.57374 z"
+       id="path5087"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:#502d16;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal"
+       d="m -386.50301,-135.40026 c -1.94425,0.18323 -3.99476,0.41828 -6.1548,0.71319 -2.25287,0.30756 -4.60915,0.67237 -7.03947,1.08722 -2.43034,0.41482 -4.93457,0.87971 -7.48393,1.38728 -2.54935,0.50759 -5.1438,1.05784 -7.75374,1.64365 -2.60994,0.58582 -5.23536,1.20724 -7.84742,1.85676 -2.61206,0.64954 -5.21073,1.3274 -7.76646,2.02614 -2.55574,0.69874 -5.06877,1.4184 -7.50974,2.15182 -2.44098,0.73344 -4.80989,1.48063 -7.07764,2.23423 -2.26775,0.75359 -4.43443,1.51367 -6.47051,2.27293 -2.03607,0.75927 -3.94166,1.51753 -5.68763,2.26795 -1.74594,0.75042 -3.33196,1.49301 -4.72933,2.22003 -0.69868,0.36353 -1.35029,0.72307 -1.95087,1.07804 -0.60058,0.35495 -1.1504,0.70508 -1.64558,1.04966 -0.49518,0.34459 -0.93585,0.68355 -1.31831,1.01594 -0.38246,0.3324 -0.70663,0.65847 -0.96908,0.97684 -0.26244,0.3184 -0.46313,0.62907 -0.59824,0.93164 -0.13511,0.30257 -0.20459,0.59688 -0.20507,0.8818 7.4e-4,0.12908 0.0203,0.26118 0.0578,0.39628 0.0374,0.13509 0.0931,0.27305 0.16613,0.41386 0.14611,0.28167 0.36213,0.57478 0.64413,0.87761 0.282,0.30281 0.6298,0.6154 1.03924,0.937 0.40941,0.32157 0.88053,0.65194 1.40888,0.98987 0.52836,0.33794 1.11393,0.68361 1.75274,1.0355 0.6388,0.35187 1.33076,0.70998 2.07152,1.07342 1.48153,0.72685 3.15841,1.47444 4.99686,2.23307 1.83846,0.75862 3.83844,1.52824 5.96593,2.299386 2.12749,0.771117 4.38284,1.543768 6.73148,2.308164 2.34864,0.764435 4.79083,1.520655 7.29272,2.259144 2.50191,0.738489 5.06356,1.4593 7.65082,2.152591 2.58728,0.693305 5.20026,1.358921 7.80502,1.987828 2.60475,0.628868 5.20094,1.221027 7.75529,1.766285 2.55435,0.545259 5.06676,1.043798 7.50281,1.486156 2.43604,0.442384 4.79576,0.828664 7.04563,1.148921 2.11338,0.300837 4.10731,0.531193 5.99832,0.707825 1.19834,-0.162398 2.21927,-0.403946 3.00358,-0.746133 1.08695,-0.262139 2.19523,-0.514996 3.31891,-0.760731 z"
+       id="path5217"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:#28170b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal"
+       d="m -388.68434,-135.9115 c -23.93812,-0.37302 -90.0134,17.36879 -90.02813,26.20175 0.0512,7.76913 67.03451,26.752424 85.92375,24.17752 -1.88002,-0.176632 -3.86235,-0.406988 -5.96344,-0.707825 -2.23677,-0.320257 -4.58277,-0.706537 -7.00465,-1.148921 -2.42188,-0.442358 -4.91968,-0.940897 -7.45917,-1.486156 -2.53948,-0.545258 -5.12057,-1.137404 -7.71018,-1.766298 -2.58961,-0.628894 -5.18739,-1.29451 -7.75962,-1.987815 -2.57222,-0.693291 -5.11897,-1.414102 -7.60633,-2.152591 -2.48735,-0.738489 -4.91532,-1.494709 -7.25031,-2.259144 -2.33498,-0.764409 -4.5772,-1.537047 -6.69231,-2.308177 -2.11513,-0.771133 -4.10348,-1.540753 -5.93124,-2.299373 -1.82777,-0.75863 -3.49488,-1.50622 -4.96779,-2.23307 -0.73646,-0.36344 -1.42439,-0.72155 -2.05948,-1.07342 -0.6351,-0.35189 -1.21726,-0.69756 -1.74254,-1.0355 -0.52529,-0.33793 -0.99366,-0.6683 -1.40071,-0.98987 -0.40704,-0.3216 -0.75281,-0.63419 -1.03318,-0.937 -0.28036,-0.30284 -0.49512,-0.59594 -0.64037,-0.87761 -0.0727,-0.14081 -0.12791,-0.27877 -0.16518,-0.41386 -0.0373,-0.1351 -0.0567,-0.26722 -0.0575,-0.39628 4.7e-4,-0.28492 0.0695,-0.57923 0.20388,-0.8818 0.13433,-0.30255 0.33386,-0.61324 0.59477,-0.93164 0.26092,-0.31837 0.58321,-0.64444 0.96344,-0.97684 0.38024,-0.33239 0.81834,-0.67135 1.31064,-1.01594 0.4923,-0.34458 1.03891,-0.69471 1.63601,-1.04966 0.59709,-0.35497 1.2449,-0.71451 1.93953,-1.07804 1.38924,-0.72702 2.96603,-1.46961 4.70183,-2.22003 1.73579,-0.75042 3.63031,-1.50868 5.65454,-2.26795 2.02423,-0.75927 4.17832,-1.51934 6.43288,-2.27293 2.25455,-0.7536 4.60969,-1.50079 7.03646,-2.23423 2.42678,-0.73342 4.92519,-1.4531 7.46607,-2.15182 2.54087,-0.69874 5.12442,-1.3766 7.7213,-2.02614 2.59687,-0.64952 5.20701,-1.27093 7.80177,-1.85674 2.59475,-0.58582 5.17413,-1.13608 7.70864,-1.64367 2.53453,-0.50758 5.0242,-0.97244 7.4404,-1.38728 2.41619,-0.41485 4.75878,-0.77966 6.99852,-1.08722 2.14748,-0.29491 4.18607,-0.52996 6.11902,-0.71319 v -0.41772 c -0.68087,-0.0507 -1.40914,-0.0815 -2.18133,-0.0935 z"
+       id="path5079"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:#ff8080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal"
+       d="m -375.38098,-133.77845 v 44.621265 c 1.14589,-0.155326 2.25738,-0.334648 3.4233,-0.475206 2.82622,-0.340784 5.70562,-0.637526 8.62742,-0.889084 0.62393,-0.05382 1.2669,-0.08228 1.89425,-0.131836 V -132.2873 c -1.34521,-0.10841 -2.71049,-0.19253 -4.03868,-0.32 -2.89671,-0.27781 -5.74681,-0.60037 -8.53961,-0.96649 -0.46627,-0.0611 -0.90385,-0.14112 -1.36668,-0.20466 z"
+       id="path5154"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:#aa0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal"
+       d="m -335.30644,-131.4028 v 39.938205 c 1.20014,0.02249 2.40461,0.01885 3.60128,0.05642 2.9989,0.09385 5.9809,0.234438 8.9348,0.421143 0.44731,0.02834 0.88001,0.0754 1.32583,0.105813 v -41.122751 c -1.17591,0.0784 -2.33342,0.18262 -3.51878,0.2464 -2.97022,0.15977 -5.96419,0.27308 -8.97069,0.33954 -0.45676,0.0104 -0.91528,0.008 -1.37244,0.0153 z"
+       id="path5092"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal"
+       d="m -348.4469,-91.40138 c 0.67383,-0.02002 1.33951,-0.06227 2.01475,-0.07747 2.09912,-0.04706 4.20285,-0.07046 6.30723,-0.07046 1.78661,1.3e-5 3.56692,0.0507 5.34977,0.08475 v -39.93821 c -1.65001,0.0291 -3.30082,0.0555 -4.95358,0.0555 -2.91152,-4e-5 -5.8207,-0.048 -8.71817,-0.13796 z"
+       id="path5156"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:#ff2a2a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal"
+       d="m -361.87998,-132.2873 v 41.633989 c 2.282,-0.182507 4.56917,-0.359853 6.89026,-0.485554 2.27941,-0.123491 4.58188,-0.194621 6.88433,-0.262515 v -40.08383 c -0.0614,-0.003 -0.12323,-0.003 -0.18452,-0.003 -2.98017,-0.0939 -5.94351,-0.23439 -8.87895,-0.42116 -1.58945,-0.10127 -3.14194,-0.24982 -4.71112,-0.37787 z"
+       id="path5148"
+       inkscape:connector-curvature="0" />
+    <ellipse
+       style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal"
+       id="path5199"
+       cx="-250.28247"
+       cy="-110.35011"
+       rx="59.631828"
+       ry="30.463799" />
+    <g
+       id="g4688"
+       transform="matrix(1.5975809,0,0,1.5975809,-180.13893,-114.05669)"
+       inkscape:export-filename="F:\MyGames\The Toekoms of orixas\Assest\Boss\Ogum\Inkscape\Parts\g4688.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5037-5"
+         d="m 114.86954,-166.53688 -55.665856,8.48424 3.32643,13.90872 c 4.3186,18.05723 19.965212,29.68355 35.082083,26.06818 15.116863,-3.6154 23.809933,-21.0634 19.491323,-39.12063 z"
+         style="opacity:1;fill:#6a3c1e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.76115131;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new" />
+      <path
+         inkscape:connector-curvature="0"
+         id="rect4965-39-6"
+         d="m 75.839866,-233.47854 c -1.88298,-0.007 -3.78084,0.20643 -5.67044,0.65837 -13.599932,3.2526 -21.965952,18.23521 -20.370322,34.2506 l 55.235366,-8.41859 c -3.99608,-15.37742 -16.231344,-26.44098 -29.194604,-26.49038 z"
+         style="opacity:1;fill:#6a3c1e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.76115131;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5057-5"
+         d="m 51.534904,-190.94418 7.66878,33.71371 55.665856,-8.64082 -7.66879,-33.71423 z"
+         style="opacity:1;fill:#6a3c1e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.82318115;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5035-8"
+         d="m 49.814594,-199.3601 0.003,0.14761 c 0.17793,1.81536 0.43929,3.64412 0.86143,5.48475 l 0.8568,3.73606 55.665856,-8.84777 -1.94924,-8.49856 c -0.0624,-0.27223 -0.14989,-0.5285 -0.21704,-0.79789 z"
+         style="opacity:1;fill:#6a3c1e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.90419912;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new" />
+      <rect
+         transform="rotate(75.129419)"
+         ry="3.5582657"
+         rx="6.381566"
+         y="-148.62144"
+         x="-178.01775"
+         height="3.5582657"
+         width="53.829628"
+         id="rect4725-9-2-2-0-4"
+         style="opacity:1;fill:#925228;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.05219293;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new" />
+    </g>
+    <g
+       id="g4695"
+       transform="matrix(1.5916541,0,0,1.5916541,-164.34301,-132.94492)"
+       inkscape:export-filename="F:\MyGames\The Toekoms of orixas\Assest\Boss\Ogum\Inkscape\Parts\g4695.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5025-2"
+         d="m 107.53906,-36.2044 -47.87408,2.2376 0.57103,6.40168 c 1.40776,15.78102 13.17675,27.53661025 26.388064,26.3580802 13.2113,-1.17856 22.713966,-14.8320902 21.306176,-30.6131402 z"
+         style="opacity:1;fill:#6a3c1e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.76962566;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new" />
+      <path
+         inkscape:connector-curvature="0"
+         id="rect4965-2-3-4"
+         d="m 80.136591,-101.55905 c -0.81225,-0.0251 -1.632531,-0.003 -2.458251,0.0718 -13.2113,1.17853 -22.71394,15.36124 -21.30618,31.14228 l 0.69763,7.81968 47.87408,-2.2376 -0.87747,-9.83713 c -1.31979,-14.79471 -11.745856,-26.58084 -23.929809,-26.95906 z"
+         style="opacity:1;fill:#6a3c1e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.76962566;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new"
+         sodipodi:nodetypes="cccccccc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5030-1"
+         d="m 57.58552,-58.060944 2.07946,24.835171 47.87408,-2.28307 -2.10063,-25.079581 z"
+         style="opacity:1;fill:#6a3c1e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.82781076;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5023-0"
+         d="m 57.58551,-57.238707 47.85291,-2.618 -0.49457,-5.85856 -47.87407,2.36483 z"
+         style="opacity:1;fill:#6a3c1e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.93124866;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new" />
+      <rect
+         transform="rotate(87.046)"
+         ry="3.5582657"
+         rx="6.3815656"
+         y="-102.52527"
+         x="-70.538147"
+         height="3.5582657"
+         width="53.829628"
+         id="rect4725-9-2-2-5-4-6"
+         style="opacity:1;fill:#925228;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.05219293;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new" />
+    </g>
+    <path
+       style="opacity:1;fill:#1b0f07;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.19404984;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new"
+       d="m 413.02277,-237.6864 a 48.535711,47.453241 0 0 0 -48.40754,44.9549 h 96.85343 a 48.535711,47.453241 0 0 0 -48.44589,-44.9549 z"
+       id="path5078-5-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="F:\MyGames\The Toekoms of orixas\Assest\Boss\Ogum\Inkscape\Parts\bitmap2.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <path
+       style="opacity:1;fill:#6a3c1e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.19404984;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new"
+       d="m 262.59899,-225.56825 a 48.535711,47.453241 0 0 0 -48.40753,44.95491 h 96.85352 a 48.535711,47.453241 0 0 0 -48.44599,-44.95491 z"
+       id="path5078-3-7-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="F:\MyGames\The Toekoms of orixas\Assest\Boss\Ogum\Inkscape\Parts\bitmap1.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.15195036;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new"
+       d="m -466.2858,-490.87982 h 65.46952 c 6.93902,0 12.52531,2.94517 12.52531,7.45796 0,4.5128 -5.58629,7.45798 -12.52531,7.45798 h -65.46952 c -6.93903,0 -12.52532,-2.94518 -12.52532,-7.45798 0,-4.51279 5.58629,-7.45796 12.52532,-7.45796 z"
+       id="rect4661"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssssss"
+       inkscape:export-filename="F:\MyGames\The Toekoms of orixas\Assest\Boss\Ogum\Inkscape\Parts\rect4661.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:5.68242264;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+       d="m -477.38205,-569.51182 c 0,0 19.32183,9.37357 41.35102,6.13142"
+       id="path4802-3-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="F:\MyGames\The Toekoms of orixas\Assest\Boss\Ogum\Inkscape\Parts\path4802-3-6.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:5.68242264;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+       d="m -376.2364,-569.82357 c 0,0 -23.44903,9.37357 -45.47823,6.13141"
+       id="path4802-3-2-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="F:\MyGames\The Toekoms of orixas\Assest\Boss\Ogum\Inkscape\Parts\path4802-3-2-1.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <g
+       id="g5080"
+       transform="translate(0,148.1667)">
+      <g
+         transform="matrix(1.2999052,0,0,1.2999052,-167.28725,-174.54532)"
+         id="g4655">
+        <circle
+           inkscape:export-ydpi="25"
+           inkscape:export-xdpi="25"
+           inkscape:export-filename="C:\Users\Ghuide\Desktop\learning\0.0 fatec\0.0 the toekoms of orixás\1.0 artwork and animations\2.0 NPC\0.0 elder\0.0 parts\eyes idle.png"
+           r="14.552069"
+           cy="-134.34067"
+           cx="-222.03964"
+           id="circle4639"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.17875338;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new" />
+        <path
+           inkscape:export-ydpi="25"
+           inkscape:export-xdpi="25"
+           inkscape:export-filename="C:\Users\Ghuide\Desktop\learning\0.0 fatec\0.0 the toekoms of orixás\1.0 artwork and animations\2.0 NPC\0.0 elder\0.0 parts\eyes idle.png"
+           d="m -219.37437,-134.33192 a 8.1685476,8.1685476 0 0 1 -6.28862,9.29946 8.1685476,8.1685476 0 0 1 -9.63488,-5.76157 8.1685476,8.1685476 0 0 1 5.21667,-9.94047 8.1685476,8.1685476 0 0 1 10.21528,4.65562 l -7.56876,3.07232 z"
+           sodipodi:end="5.8975854"
+           sodipodi:start="6.1202128"
+           sodipodi:ry="8.1685476"
+           sodipodi:rx="8.1685476"
+           sodipodi:cy="-133.00656"
+           sodipodi:cx="-227.43468"
+           sodipodi:type="arc"
+           id="path4641"
+           style="opacity:1;fill:#6ecade;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78433716;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new" />
+      </g>
+      <g
+         transform="matrix(1.2999052,0,0,1.2999052,-162.47219,-174.54532)"
+         id="g4659">
+        <circle
+           inkscape:export-ydpi="25"
+           inkscape:export-xdpi="25"
+           inkscape:export-filename="C:\Users\Ghuide\Desktop\learning\0.0 fatec\0.0 the toekoms of orixás\1.0 artwork and animations\2.0 NPC\0.0 elder\0.0 parts\eyes idle.png"
+           r="14.552069"
+           cy="-134.13614"
+           cx="-183.87975"
+           id="circle4643"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.17875338;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new" />
+        <path
+           inkscape:export-ydpi="25"
+           inkscape:export-xdpi="25"
+           inkscape:export-filename="C:\Users\Ghuide\Desktop\learning\0.0 fatec\0.0 the toekoms of orixás\1.0 artwork and animations\2.0 NPC\0.0 elder\0.0 parts\eyes idle.png"
+           d="m -181.21444,-134.1274 a 8.1685476,8.1685476 0 0 1 -6.28862,9.29947 8.1685476,8.1685476 0 0 1 -9.63489,-5.76157 8.1685476,8.1685476 0 0 1 5.21668,-9.94048 8.1685476,8.1685476 0 0 1 10.21528,4.65563 l -7.56876,3.07232 z"
+           sodipodi:end="5.8975854"
+           sodipodi:start="6.1202128"
+           sodipodi:ry="8.1685476"
+           sodipodi:rx="8.1685476"
+           sodipodi:cy="-132.80203"
+           sodipodi:cx="-189.27475"
+           sodipodi:type="arc"
+           id="path4645"
+           style="opacity:1;fill:#6ecade;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78433716;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new" />
+      </g>
+    </g>
+    <g
+       id="g5084"
+       inkscape:export-filename="F:\MyGames\The Toekoms of orixas\Assest\Boss\Ogum\Inkscape\Parts\bitmap4.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25">
+      <path
+         sodipodi:nodetypes="csssscssc"
+         inkscape:connector-curvature="0"
+         id="path4563-3"
+         d="m -481.19233,-400.17462 v 94.2673 c 0,31.74782 25.55871,57.30653 57.30654,57.30653 h 41.64009 c 31.74786,0 64.1852,-25.55871 64.1852,-57.30653 v -94.2673 c 0,0 -0.26706,-57.09292 -64.13238,-57.09292 h -56.7324 c -35.24083,0 -42.26705,57.09292 -42.26705,57.09292 z"
+         style="opacity:1;fill:#6a3c1e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.42432332;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new" />
+      <path
+         sodipodi:nodetypes="sscssscsssssscsssssss"
+         style="opacity:1;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.39007449;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new"
+         d="m -423.94054,-464.66231 c -15.25229,0 -35.07325,5.97261 -46.17071,24.85364 -7.59136,12.91581 -12.60186,25.30287 -12.3678,48.29061 0,0 31.33731,-7.26208 42.61378,1.37573 6.45198,4.94221 5.72979,15.43698 6.34983,23.54062 0.68425,8.94267 -4.09414,17.84311 -2.97345,26.74164 0.91466,7.26268 7.76269,20.54237 7.76269,20.54237 0,0 7.25939,-13.06719 8.20508,-20.30605 1.17378,-8.98471 -4.10239,-17.94258 -3.36745,-26.97379 0.66364,-8.15503 0.38641,-18.64477 6.93888,-23.54479 13.19197,-9.86512 36.60707,-10.35514 49.418,0 10.24622,8.28206 9.51854,25.52901 8.28675,38.64618 -1.4769,15.72736 -6.39023,38.27382 -16.32491,50.55524 -8.87743,10.97442 -34.73401,24.22329 -34.73401,24.22329 0,0 23.27355,7.01728 35.19714,6.53943 20.28152,-0.81279 41.39219,-1.89266 54.65955,-17.25424 15.76311,-18.2513 17.22885,-41.0539 19.84729,-59.97366 1.84269,-13.31455 0.82388,-27.07637 -1.63366,-40.29126 -1.97777,-10.63503 -4.01489,-25.45989 -10.43019,-34.16962 -15.55,-21.1114 -37.9522,-42.79534 -63.63803,-42.79534 z"
+         id="path4631"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g4728"
+       transform="matrix(1.2999052,0,0,1.2999052,504.68905,175.01114)">
+      <path
+         style="opacity:1;fill:#6a3c1e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.86500001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new"
+         d="m -242.54139,-178.86533 v 72.5186 c 0,24.423176 19.66198,44.085156 44.08517,44.085156 h 32.03318 c 24.42321,0 49.37683,-19.66198 49.37683,-44.085156 v -72.5186 c 0,0 -0.20545,-43.92083 -49.3362,-43.92083 h -43.64349 c -27.11031,0 -32.51549,43.92083 -32.51549,43.92083 z"
+         id="path4706"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="csssscssc" />
+      <path
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.73261452;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new"
+         d="m -231.07399,-102.09441 h 50.36484 c 5.3381,0 9.63556,2.265687 9.63556,5.737316 0,3.471638 -4.29746,5.737328 -9.63556,5.737328 h -50.36484 c -5.3381,0 -9.63556,-2.26569 -9.63556,-5.737328 0,-3.471629 4.29746,-5.737316 9.63556,-5.737316 z"
+         id="path4708"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sssssss" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:4.37141323;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+         d="m -239.61019,-162.58497 c 0,0 14.86403,7.21096 31.8108,4.71682"
+         id="path4710"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:4.37141323;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+         d="m -161.80017,-162.8248 c 0,0 -18.03903,7.21097 -34.9858,4.71682"
+         id="path4712"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <g
+         id="g4718"
+         transform="translate(-1.0583333,-5.2916667)">
+        <circle
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.17875338;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new"
+           id="circle4714"
+           cx="-222.03964"
+           cy="-134.34067"
+           r="14.552069"
+           inkscape:export-filename="C:\Users\Ghuide\Desktop\learning\0.0 fatec\0.0 the toekoms of orixás\1.0 artwork and animations\2.0 NPC\0.0 elder\0.0 parts\eyes idle.png"
+           inkscape:export-xdpi="25"
+           inkscape:export-ydpi="25" />
+        <path
+           style="opacity:1;fill:#6ecade;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78433716;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new"
+           id="path4716"
+           sodipodi:type="arc"
+           sodipodi:cx="-227.43468"
+           sodipodi:cy="-133.00656"
+           sodipodi:rx="8.1685476"
+           sodipodi:ry="8.1685476"
+           sodipodi:start="6.1202128"
+           sodipodi:end="5.8975854"
+           d="m -219.37437,-134.33192 a 8.1685476,8.1685476 0 0 1 -6.28862,9.29946 8.1685476,8.1685476 0 0 1 -9.63488,-5.76157 8.1685476,8.1685476 0 0 1 5.21667,-9.94047 8.1685476,8.1685476 0 0 1 10.21528,4.65562 l -7.56876,3.07232 z"
+           inkscape:export-filename="C:\Users\Ghuide\Desktop\learning\0.0 fatec\0.0 the toekoms of orixás\1.0 artwork and animations\2.0 NPC\0.0 elder\0.0 parts\eyes idle.png"
+           inkscape:export-xdpi="25"
+           inkscape:export-ydpi="25" />
+      </g>
+      <g
+         id="g4724"
+         transform="translate(2.6458334,-5.2916667)">
+        <circle
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.17875338;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new"
+           id="circle4720"
+           cx="-183.87975"
+           cy="-134.13614"
+           r="14.552069"
+           inkscape:export-filename="C:\Users\Ghuide\Desktop\learning\0.0 fatec\0.0 the toekoms of orixás\1.0 artwork and animations\2.0 NPC\0.0 elder\0.0 parts\eyes idle.png"
+           inkscape:export-xdpi="25"
+           inkscape:export-ydpi="25" />
+        <path
+           style="opacity:1;fill:#6ecade;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78433716;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new"
+           id="path4722"
+           sodipodi:type="arc"
+           sodipodi:cx="-189.27475"
+           sodipodi:cy="-132.80203"
+           sodipodi:rx="8.1685476"
+           sodipodi:ry="8.1685476"
+           sodipodi:start="6.1202128"
+           sodipodi:end="5.8975854"
+           d="m -181.21444,-134.1274 a 8.1685476,8.1685476 0 0 1 -6.28862,9.29947 8.1685476,8.1685476 0 0 1 -9.63489,-5.76157 8.1685476,8.1685476 0 0 1 5.21668,-9.94048 8.1685476,8.1685476 0 0 1 10.21528,4.65563 l -7.56876,3.07232 z"
+           inkscape:export-filename="C:\Users\Ghuide\Desktop\learning\0.0 fatec\0.0 the toekoms of orixás\1.0 artwork and animations\2.0 NPC\0.0 elder\0.0 parts\eyes idle.png"
+           inkscape:export-xdpi="25"
+           inkscape:export-ydpi="25" />
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path4726"
+         d="m -198.49834,-228.47486 c -11.73338,0 -26.98139,4.59465 -35.51852,19.11958 -5.83993,9.93596 -9.69444,19.46516 -9.51438,37.14933 0,0 24.10738,-5.58662 32.78222,1.05833 4.96342,3.80198 4.40785,11.87547 4.88484,18.10949 0.52638,6.87948 -3.14957,13.72647 -2.28744,20.57199 0.70364,5.58709 5.97174,15.80298 5.97174,15.80298 0,0 5.58455,-10.05242 6.31206,-15.62118 0.90297,-6.91182 -3.15592,-13.80299 -2.59054,-20.75058 0.51053,-6.27356 0.29726,-14.34318 5.33799,-18.1127 10.14841,-7.58911 28.16134,-7.96607 38.01662,0 7.88228,6.37128 7.32249,19.63913 6.37489,29.73 -1.13616,12.09885 -4.91592,29.44355 -12.55854,38.89148 -6.82929,8.442477 -26.72042,18.634657 -26.72042,18.634657 0,0 17.90404,5.398303 27.0767,5.030702 15.60231,-0.625273 31.84247,-1.455996 42.04887,-13.273461 12.12636,-14.040488 13.25393,-31.582228 15.26826,-46.136948 1.41756,-10.24271 0.6338,-20.8295 -1.25675,-30.99554 -1.52147,-8.18139 -3.0886,-19.58596 -8.02381,-26.28624 -11.96241,-16.24072 -29.19613,-32.92189 -48.9559,-32.92189 z"
+         style="opacity:1;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.60793972;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new"
+         sodipodi:nodetypes="sscssscsssssscsssssss" />
+    </g>
+    <g
+       transform="matrix(1.5975809,0,0,1.5975809,242.49265,454.54224)"
+       id="g4893">
+      <path
+         style="opacity:1;fill:#6a3c1e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.76115131;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new"
+         d="m 114.86954,-166.53688 -55.665856,8.48424 3.32643,13.90872 c 4.3186,18.05723 19.965212,29.68355 35.082083,26.06818 15.116863,-3.6154 23.809933,-21.0634 19.491323,-39.12063 z"
+         id="path4883"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         style="opacity:1;fill:#6a3c1e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.76115131;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new"
+         d="m 75.839866,-233.47854 c -1.88298,-0.007 -3.78084,0.20643 -5.67044,0.65837 -13.599932,3.2526 -21.965952,18.23521 -20.370322,34.2506 l 55.235366,-8.41859 c -3.99608,-15.37742 -16.231344,-26.44098 -29.194604,-26.49038 z"
+         id="path4885"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         style="opacity:1;fill:#6a3c1e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.82318115;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new"
+         d="m 51.534904,-190.94418 7.66878,33.71371 55.665856,-8.64082 -7.66879,-33.71423 z"
+         id="path4887"
+         inkscape:connector-curvature="0" />
+      <path
+         style="opacity:1;fill:#6a3c1e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.90419912;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new"
+         d="m 49.814594,-199.3601 0.003,0.14761 c 0.17793,1.81536 0.43929,3.64412 0.86143,5.48475 l 0.8568,3.73606 55.665856,-8.84777 -1.94924,-8.49856 c -0.0624,-0.27223 -0.14989,-0.5285 -0.21704,-0.79789 z"
+         id="path4889"
+         inkscape:connector-curvature="0" />
+      <rect
+         style="opacity:1;fill:#925228;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.05219293;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new"
+         id="rect4891"
+         width="53.829628"
+         height="3.5582657"
+         x="-178.01775"
+         y="-148.62144"
+         rx="6.381566"
+         ry="3.5582657"
+         transform="rotate(75.129419)" />
+    </g>
+    <g
+       transform="matrix(1.5916541,0,0,1.5916541,271.03743,387.20836)"
+       id="g4905">
+      <path
+         style="opacity:1;fill:#6a3c1e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.76962566;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new"
+         d="m 107.53906,-36.2044 -47.87408,2.2376 0.57103,6.40168 c 1.40776,15.78102 13.17675,27.53661025 26.388064,26.3580802 13.2113,-1.17856 22.713966,-14.8320902 21.306176,-30.6131402 z"
+         id="path4895"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="cccccccc"
+         style="opacity:1;fill:#6a3c1e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.76962566;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new"
+         d="m 80.136591,-101.55905 c -0.81225,-0.0251 -1.632531,-0.003 -2.458251,0.0718 -13.2113,1.17853 -22.71394,15.36124 -21.30618,31.14228 l 0.69763,7.81968 47.87408,-2.2376 -0.87747,-9.83713 c -1.31979,-14.79471 -11.745856,-26.58084 -23.929809,-26.95906 z"
+         id="path4897"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         style="opacity:1;fill:#6a3c1e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.82781076;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new"
+         d="m 57.58552,-58.060944 2.07946,24.835171 47.87408,-2.28307 -2.10063,-25.079581 z"
+         id="path4899"
+         inkscape:connector-curvature="0" />
+      <path
+         style="opacity:1;fill:#6a3c1e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.93124866;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new"
+         d="m 57.58551,-57.238707 47.85291,-2.618 -0.49457,-5.85856 -47.87407,2.36483 z"
+         id="path4901"
+         inkscape:connector-curvature="0" />
+      <rect
+         style="opacity:1;fill:#925228;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.05219293;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new"
+         id="rect4903"
+         width="53.829628"
+         height="3.5582657"
+         x="-70.538147"
+         y="-102.52527"
+         rx="6.3815656"
+         ry="3.5582657"
+         transform="rotate(87.046)" />
+    </g>
+    <g
+       transform="matrix(1.5972414,0,0,1.4395627,-354.39184,581.82715)"
+       id="g4999">
+      <rect
+         style="opacity:1;fill:#1b0f07;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.23997021;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new"
+         id="rect4995"
+         width="39.424278"
+         height="100.86073"
+         x="356.82114"
+         y="-154.20894"
+         transform="matrix(0.99986158,-0.01663775,0.00386845,0.99999252,0,0)"
+         ry="19.712139" />
+      <ellipse
+         style="opacity:1;fill:#1b0f07;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.76115179;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new"
+         id="ellipse4997"
+         cx="367.73087"
+         cy="-138.12773"
+         rx="17.265406"
+         ry="18.943987" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path5001"
+       d="m 231.56122,453.36905 a 48.535711,47.453241 0 0 0 -48.40753,44.95491 h 96.85343 a 48.535711,47.453241 0 0 0 -48.4459,-44.95491 z"
+       style="opacity:1;fill:#1b0f07;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.19404984;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new" />
+    <g
+       id="g5044"
+       transform="matrix(1.2999052,0,0,1.6561874,-138.39686,-234.29532)"
+       inkscape:export-filename="F:\MyGames\The Toekoms of orixas\Assest\Boss\Ogum\Inkscape\Parts\g5044.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25">
+      <path
+         sodipodi:nodetypes="csccscc"
+         inkscape:connector-curvature="0"
+         id="path5035"
+         d="m -265.49642,195.62082 c 0,0 23.47216,3.39899 35.29291,3.46748 13.40254,0.0777 40.05849,-3.46748 40.05849,-3.46748 l -1.38699,20.5486 c 0,0 -25.78399,-0.75846 -38.67193,-0.45397 -14.3279,0.3385 -42.92095,2.53445 -42.92095,2.53445 z"
+         style="fill:#28170b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:#4a8d27;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -195.96586,195.62082 c 1.10288,-2.03161 3.41229,-3.27636 5.54798,-4.16099 6.04065,-2.50212 12.88255,-2.57641 19.41791,-2.77398 11.3596,-0.34342 22.61899,2.53833 33.98134,2.77398 46.260153,0.95942 145.354298,-9.60177 191.61605,-8.72297 14.837004,0.28185 44.383801,3.46749 44.383801,3.46749 0,0 -7.002627,5.7871 -11.095964,7.62844 -28.019718,12.60435 -59.052454,17.79998 -89.46109,22.1919 -36.641679,5.29216 -127.036637,11.69948 -163.876167,8.0295 -10.89966,-1.08583 -25.44276,0.96252 -31.90085,-7.88477 -10.91285,-10.44876 -11.20547,-10.59217 1.38699,-20.5486 z"
+         id="path5037"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="csssscssscc" />
+      <path
+         sodipodi:nodetypes="csssscssscc"
+         inkscape:connector-curvature="0"
+         id="path5039"
+         d="m -197.29635,195.62082 c 0.94862,-2.03161 2.93503,-3.27636 4.77201,-4.16099 5.19578,-2.50212 11.08074,-2.57641 16.70204,-2.77398 9.7708,-0.34342 19.45541,2.53833 29.22857,2.77398 39.79002,0.95942 71.2568,-1.1351 111.048192,-0.2563 12.761839,0.28185 38.1760987,3.46749 38.1760987,3.46749 0,0 -6.023211,5.7871 -9.544037,7.62844 -24.1007637,12.60435 -50.7931327,12.50831 -76.9486917,16.90023 -31.516822,5.29216 -55.501122,8.52448 -87.188122,4.8545 -9.37519,-1.08583 -21.88423,0.96252 -27.43906,-7.88477 -9.38654,-10.44876 -9.63823,-10.59217 1.193,-20.5486 z"
+         style="fill:#3b6f1f;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.24538386px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>

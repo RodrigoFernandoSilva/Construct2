@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="docs #1.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient4647"
+       inkscape:collect="always">
+      <stop
+         id="stop4643"
+         offset="0"
+         style="stop-color:#797979;stop-opacity:1" />
+      <stop
+         id="stop4645"
+         offset="1"
+         style="stop-color:#4a476a;stop-opacity:1" />
+    </linearGradient>
+    <inkscape:path-effect
+       fuse_tolerance="0"
+       vertical_pattern="false"
+       prop_units="false"
+       tang_offset="0"
+       normal_offset="0"
+       spacing="0"
+       scale_y_rel="false"
+       prop_scale="0.33564031"
+       copytype="single_stretched"
+       pattern="m 81.602595,-13.675822 c 0,-2.760001 2.24,-5.000001 5,-5.000001 2.76,0 5,2.24 5,5.000001 0,2.76 -2.24,4.9999996 -5,4.9999996 -2.76,0 -5,-2.2399996 -5,-4.9999996 z"
+       is_visible="true"
+       id="path-effect4790"
+       effect="skeletal" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect4786"
+       is_visible="true"
+       pattern="m -13.122799,3.9325416 c 0,-2.76 2.24,-5 5.0000005,-5 2.76,0 5,2.24 5,5 0,2.76 -2.24,5 -5,5 -2.7600005,0 -5.0000005,-2.24 -5.0000005,-5 z"
+       copytype="single_stretched"
+       prop_scale="0.26458333"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       fuse_tolerance="0" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4647"
+       id="radialGradient4758"
+       cx="16.553104"
+       cy="206.61852"
+       fx="16.553104"
+       fy="206.61852"
+       r="60.573269"
+       gradientTransform="matrix(1,0,0,1.5326138,250.8272,-110.04786)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4647"
+       id="linearGradient4766"
+       x1="-44.542847"
+       y1="337.74097"
+       x2="328.16928"
+       y2="337.74097"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.25"
+     inkscape:cx="829.47651"
+     inkscape:cy="3.12154"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="701"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     objecttolerance="1"
+     guidetolerance="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:url(#radialGradient4758);fill-opacity:1.0;stroke:#000000;stroke-width:5.72642803;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98728811"
+       id="rect5112-0"
+       width="115.42011"
+       height="179.94443"
+       x="209.67026"
+       y="116.6463"
+       ry="6.4668641"
+       inkscape:export-xdpi="47.704376"
+       inkscape:export-ydpi="47.704376" />
+    <g
+       transform="matrix(0.43946866,0,0,0.43946866,146.84274,182.46302)"
+       style="enable-background:new"
+       id="g4651"
+       inkscape:export-xdpi="47.704376"
+       inkscape:export-ydpi="47.704376">
+      <rect
+         style="opacity:1;fill:#6a3c1e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.94539642;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new"
+         id="rect4981"
+         width="62.960964"
+         height="145.20717"
+         x="286.98669"
+         y="292.99356"
+         rx="42.946156"
+         ry="41.247562"
+         transform="matrix(0.99937268,-0.03541543,0.02942886,0.99956688,0,0)" />
+      <g
+         id="g4989"
+         transform="matrix(1.5972414,0,0,1.4395627,-99.56703,592.68472)">
+        <ellipse
+           ry="18.943987"
+           rx="17.265406"
+           cy="-134.27411"
+           cx="261.8876"
+           id="ellipse4985"
+           style="opacity:1;fill:#6a3c1e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.76115179;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new" />
+      </g>
+      <rect
+         style="opacity:1;fill:#1b0f07;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10.76141453;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new"
+         id="rect4907"
+         width="89.311806"
+         height="187.78381"
+         x="200.32768"
+         y="44.322662"
+         rx="60.920273"
+         ry="53.341892"
+         transform="rotate(8.7070602)" />
+      <rect
+         style="opacity:1;fill:#1b0f07;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:9.18324852;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new"
+         id="rect4909"
+         width="76.214195"
+         height="160.24522"
+         x="233.64279"
+         y="158.01756"
+         rx="51.986282"
+         ry="45.519283"
+         transform="rotate(17.059747)" />
+      <rect
+         style="opacity:1;fill:#1b0f07;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.94539642;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new"
+         id="rect4993"
+         width="62.960964"
+         height="145.20714"
+         x="202.51265"
+         y="272.53302"
+         rx="42.946156"
+         ry="41.247562"
+         transform="matrix(0.99937268,-0.03541543,0.02942886,0.99956688,0,0)" />
+      <g
+         transform="matrix(1.2999052,0,0,1.2999052,349.15303,375.16817)"
+         id="g4881">
+        <path
+           sodipodi:nodetypes="ccsssccccsssc"
+           inkscape:export-ydpi="25"
+           inkscape:export-xdpi="25"
+           inkscape:export-filename="C:\Users\Ghuide\Desktop\learning\0.0 fatec\0.0 the toekoms of orixás\1.0 artwork and animations\2.0 NPC\0.0 elder\0.0 parts\body.png"
+           inkscape:connector-curvature="0"
+           id="path4873"
+           d="m 12.919623,-160.21757 c -0.292917,-0.11593 -0.546112,-0.28943 -0.843062,-0.39904 -2.291103,-0.84568 -4.697816,-1.5015 -7.193893,-1.94647 -2.496077,-0.44497 -5.082938,-0.67817 -7.733459,-0.67817 h -88.925164 c -2.65052,0 -5.237378,0.23321 -7.733458,0.67817 -2.496067,0.44497 -4.902787,1.10079 -7.193927,1.94647 -1.61506,0.59617 -3.09241,1.39662 -4.58425,2.17317 0,33.4295 0,60.508991 0,93.938487 0,18.566442 17.069675,33.513524 38.273914,33.513524 h 47.65754 c 21.204234,0 38.275759,-14.947082 38.275759,-33.513524 z"
+           style="opacity:1;fill:#1a1cc0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.76115131;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal" />
+        <path
+           sodipodi:nodetypes="cssccsccccccc"
+           inkscape:export-ydpi="25"
+           inkscape:export-xdpi="25"
+           inkscape:export-filename="C:\Users\Ghuide\Desktop\learning\0.0 fatec\0.0 the toekoms of orixás\1.0 artwork and animations\2.0 NPC\0.0 elder\0.0 parts\body.png"
+           inkscape:connector-curvature="0"
+           id="path4875"
+           d="m -9.638184,-159.4045 h 6.787393 c 2.650521,0 5.237382,0.23321 7.733459,0.67818 2.496077,0.44497 4.90279,1.1008 7.193893,1.94647 0.296918,0.10959 0.550037,0.28314 0.843062,0.39904 v -45.26141 c 0,-8.70496 -3.850884,-16.53853 -10.022783,-22.48473 0.09096,0.54696 0.24797,1.02735 0.311055,1.59988 0.186695,1.69635 0.250864,3.50221 0.189243,5.38982 -0.06169,1.88762 -0.249065,3.85695 -0.563881,5.88627 -0.315033,2.02935 -0.758013,4.117 -1.331998,6.23849 -0.573995,2.12149 -1.278572,4.27672 -2.116951,6.4408 z"
+           style="opacity:1;fill:#6a3c1e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.76115131;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal" />
+        <path
+           sodipodi:nodetypes="cssscccsccccsccc"
+           inkscape:export-ydpi="25"
+           inkscape:export-xdpi="25"
+           inkscape:export-filename="C:\Users\Ghuide\Desktop\learning\0.0 fatec\0.0 the toekoms of orixás\1.0 artwork and animations\2.0 NPC\0.0 elder\0.0 parts\body.png"
+           inkscape:connector-curvature="0"
+           id="path4877"
+           d="m -16.189545,-234.08979 c -2.949344,-0.63364 -5.987912,-1.06597 -9.166591,-1.06597 h -47.65754 c -21.204259,0 -38.273894,14.94707 -38.273894,33.51354 v 47.03554 c 1.49182,-0.77655 2.96917,-1.577 4.58424,-2.17317 2.29111,-0.84567 4.69785,-1.5015 7.193917,-1.94647 2.49609,-0.44497 5.082938,-0.67818 7.733458,-0.67818 h 34.515101 c 0.502389,-1.71342 6.31763,-3.4329 6.990865,-5.17062 l 17.185979,-46.57469 c 0.838379,-2.16408 1.76946,-4.23154 2.774543,-6.18602 1.005104,-1.95448 2.084135,-3.79593 3.21852,-5.50784 1.134385,-1.71191 2.323876,-3.29398 3.550129,-4.73037 1.226253,-1.4364 2.488618,-2.72759 3.769316,-3.8555 1.183398,-1.04223 2.38283,-1.90848 3.581957,-2.66025 z"
+           style="opacity:1;fill:#422512;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.76115131;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal" />
+        <path
+           sodipodi:nodetypes="cccsccccccccccccc"
+           inkscape:export-ydpi="25"
+           inkscape:export-xdpi="25"
+           inkscape:export-filename="C:\Users\Ghuide\Desktop\learning\0.0 fatec\0.0 the toekoms of orixás\1.0 artwork and animations\2.0 NPC\0.0 elder\0.0 parts\body.png"
+           inkscape:connector-curvature="0"
+           id="path4879"
+           d="m -16.189545,-234.08979 c -1.323302,0.75177 -2.647028,1.61802 -3.953039,2.66025 -1.413317,1.12791 -2.806481,2.4191 -4.15976,3.8555 -1.353213,1.43639 -2.665957,3.01846 -3.917839,4.73037 -1.251882,1.71191 -2.442717,3.55336 -3.55195,5.50784 -1.109148,1.95448 -2.136661,4.02194 -3.061909,6.18602 l -23.709765,46.57469 c -0.742922,1.73772 -1.320766,3.4572 -1.875215,5.17062 h 51.45945 l 9.956989,-39.16719 c 0.925238,-2.16408 1.702754,-4.31931 2.336235,-6.4408 0.633448,-2.12149 1.122276,-4.20914 1.469941,-6.23849 0.347664,-2.02932 0.554459,-3.99865 0.622357,-5.88627 0.06819,-1.88761 -0.0033,-3.69347 -0.20918,-5.38982 -0.06928,-0.57253 -0.242527,-1.05292 -0.343317,-1.59988 -5.538374,-4.83503 -12.785857,-8.35142 -21.063431,-9.96284 z"
+           style="opacity:1;fill:#1a1cc0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.10270643;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal" />
+      </g>
+      <g
+         transform="matrix(1.2999052,0,0,1.2999052,504.68905,175.01114)"
+         id="g4728">
+        <path
+           sodipodi:nodetypes="csssscssc"
+           inkscape:connector-curvature="0"
+           id="path4706"
+           d="m -242.54139,-178.86533 v 72.5186 c 0,24.423176 19.66198,44.085156 44.08517,44.085156 h 32.03318 c 24.42321,0 49.37683,-19.66198 49.37683,-44.085156 v -72.5186 c 0,0 -0.20545,-43.92083 -49.3362,-43.92083 h -43.64349 c -27.11031,0 -32.51549,43.92083 -32.51549,43.92083 z"
+           style="opacity:1;fill:#6a3c1e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.86500001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new" />
+        <path
+           sodipodi:nodetypes="sssssss"
+           inkscape:connector-curvature="0"
+           id="path4708"
+           d="m -231.07399,-102.09441 h 50.36484 c 5.3381,0 9.63556,2.265687 9.63556,5.737316 0,3.471638 -4.29746,5.737328 -9.63556,5.737328 h -50.36484 c -5.3381,0 -9.63556,-2.26569 -9.63556,-5.737328 0,-3.471629 4.29746,-5.737316 9.63556,-5.737316 z"
+           style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.73261452;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new" />
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path4710"
+           d="m -239.61019,-162.58497 c 0,0 14.86403,7.21096 31.8108,4.71682"
+           style="fill:none;stroke:#000000;stroke-width:4.37141323;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new" />
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path4712"
+           d="m -161.80017,-162.8248 c 0,0 -18.03903,7.21097 -34.9858,4.71682"
+           style="fill:none;stroke:#000000;stroke-width:4.37141323;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new" />
+        <g
+           transform="translate(-1.0583333,-5.2916667)"
+           id="g4718">
+          <circle
+             inkscape:export-ydpi="25"
+             inkscape:export-xdpi="25"
+             inkscape:export-filename="C:\Users\Ghuide\Desktop\learning\0.0 fatec\0.0 the toekoms of orixás\1.0 artwork and animations\2.0 NPC\0.0 elder\0.0 parts\eyes idle.png"
+             r="14.552069"
+             cy="-134.34067"
+             cx="-222.03964"
+             id="circle4714"
+             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.17875338;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new" />
+          <path
+             inkscape:export-ydpi="25"
+             inkscape:export-xdpi="25"
+             inkscape:export-filename="C:\Users\Ghuide\Desktop\learning\0.0 fatec\0.0 the toekoms of orixás\1.0 artwork and animations\2.0 NPC\0.0 elder\0.0 parts\eyes idle.png"
+             d="m -219.37437,-134.33192 a 8.1685476,8.1685476 0 0 1 -6.28862,9.29946 8.1685476,8.1685476 0 0 1 -9.63488,-5.76157 8.1685476,8.1685476 0 0 1 5.21667,-9.94047 8.1685476,8.1685476 0 0 1 10.21528,4.65562 l -7.56876,3.07232 z"
+             sodipodi:end="5.8975854"
+             sodipodi:start="6.1202128"
+             sodipodi:ry="8.1685476"
+             sodipodi:rx="8.1685476"
+             sodipodi:cy="-133.00656"
+             sodipodi:cx="-227.43468"
+             sodipodi:type="arc"
+             id="path4716"
+             style="opacity:1;fill:#6ecade;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78433716;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new" />
+        </g>
+        <g
+           transform="translate(2.6458334,-5.2916667)"
+           id="g4724">
+          <circle
+             inkscape:export-ydpi="25"
+             inkscape:export-xdpi="25"
+             inkscape:export-filename="C:\Users\Ghuide\Desktop\learning\0.0 fatec\0.0 the toekoms of orixás\1.0 artwork and animations\2.0 NPC\0.0 elder\0.0 parts\eyes idle.png"
+             r="14.552069"
+             cy="-134.13614"
+             cx="-183.87975"
+             id="circle4720"
+             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.17875338;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new" />
+          <path
+             inkscape:export-ydpi="25"
+             inkscape:export-xdpi="25"
+             inkscape:export-filename="C:\Users\Ghuide\Desktop\learning\0.0 fatec\0.0 the toekoms of orixás\1.0 artwork and animations\2.0 NPC\0.0 elder\0.0 parts\eyes idle.png"
+             d="m -181.21444,-134.1274 a 8.1685476,8.1685476 0 0 1 -6.28862,9.29947 8.1685476,8.1685476 0 0 1 -9.63489,-5.76157 8.1685476,8.1685476 0 0 1 5.21668,-9.94048 8.1685476,8.1685476 0 0 1 10.21528,4.65563 l -7.56876,3.07232 z"
+             sodipodi:end="5.8975854"
+             sodipodi:start="6.1202128"
+             sodipodi:ry="8.1685476"
+             sodipodi:rx="8.1685476"
+             sodipodi:cy="-132.80203"
+             sodipodi:cx="-189.27475"
+             sodipodi:type="arc"
+             id="path4722"
+             style="opacity:1;fill:#6ecade;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78433716;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new" />
+        </g>
+        <path
+           sodipodi:nodetypes="sscssscsssssscsssssss"
+           style="opacity:1;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.60793972;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new"
+           d="m -198.49834,-228.47486 c -11.73338,0 -26.98139,4.59465 -35.51852,19.11958 -5.83993,9.93596 -9.69444,19.46516 -9.51438,37.14933 0,0 24.10738,-5.58662 32.78222,1.05833 4.96342,3.80198 4.40785,11.87547 4.88484,18.10949 0.52638,6.87948 -3.14957,13.72647 -2.28744,20.57199 0.70364,5.58709 5.97174,15.80298 5.97174,15.80298 0,0 5.58455,-10.05242 6.31206,-15.62118 0.90297,-6.91182 -3.15592,-13.80299 -2.59054,-20.75058 0.51053,-6.27356 0.29726,-14.34318 5.33799,-18.1127 10.14841,-7.58911 28.16134,-7.96607 38.01662,0 7.88228,6.37128 7.32249,19.63913 6.37489,29.73 -1.13616,12.09885 -4.91592,29.44355 -12.55854,38.89148 -6.82929,8.442477 -26.72042,18.634657 -26.72042,18.634657 0,0 17.90404,5.398303 27.0767,5.030702 15.60231,-0.625273 31.84247,-1.455996 42.04887,-13.273461 12.12636,-14.040488 13.25393,-31.582228 15.26826,-46.136948 1.41756,-10.24271 0.6338,-20.8295 -1.25675,-30.99554 -1.52147,-8.18139 -3.0886,-19.58596 -8.02381,-26.28624 -11.96241,-16.24072 -29.19613,-32.92189 -48.9559,-32.92189 z"
+           id="path4726"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g4893"
+         transform="matrix(1.5975809,0,0,1.5975809,242.49265,454.54224)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4883"
+           d="m 101.63657,-164.51999 -42.432886,6.46735 3.32643,13.90872 c 4.3186,18.05723 19.965212,29.68355 35.082083,26.06818 5.451253,-24.137 7.010063,-23.44382 4.024373,-46.44425 z"
+           style="opacity:1;fill:#6a3c1e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.76115131;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new"
+           sodipodi:nodetypes="ccscc" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4885"
+           d="m 75.839866,-233.47854 c -1.88298,-0.007 -3.78084,0.20643 -5.67044,0.65837 -13.599932,3.2526 -21.965952,18.23521 -20.370322,34.2506 l 55.235366,-8.41859 c -3.99608,-15.37742 -16.231344,-26.44098 -29.194604,-26.49038 z"
+           style="opacity:1;fill:#6a3c1e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.76115131;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4887"
+           d="m 51.534904,-190.94418 7.66878,33.71371 44.318626,-6.87943 c -2.62271,-13.01148 -0.0467,-18.82329 -1.64693,-34.64893 z"
+           style="opacity:1;fill:#6a3c1e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.82318115;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4889"
+           d="m 49.814594,-199.3601 0.003,0.14761 c 0.17793,1.81536 0.43929,3.64412 0.86143,5.48475 l 0.8568,3.73606 53.001106,-7.51539 0.71551,-9.83094 c -0.0624,-0.27223 -0.14989,-0.5285 -0.21704,-0.79789 z"
+           style="opacity:1;fill:#6a3c1e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.90419912;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new"
+           sodipodi:nodetypes="cccccccc" />
+        <path
+           transform="rotate(75.129419)"
+           style="opacity:1;fill:#925228;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.05219293;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new"
+           d="m -171.63618,-148.62144 22.06288,0 c 16.25315,5.5197 25.81871,9.62309 1.89163,3.55826 l -23.95451,0 c -3.53539,0 -6.38157,-0.79349 -6.38157,-1.77913 0,-0.98564 2.84618,-1.77913 6.38157,-1.77913 z"
+           id="rect4891"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="sccsss" />
+      </g>
+      <g
+         id="g4905"
+         transform="matrix(1.5916541,0,0,1.5916541,271.03743,387.20836)" />
+      <g
+         id="g4999"
+         transform="matrix(1.5972414,0,0,1.4395627,-354.39184,581.82715)">
+        <ellipse
+           ry="18.943987"
+           rx="17.265406"
+           cy="-138.12773"
+           cx="367.73087"
+           id="ellipse4997"
+           style="opacity:1;fill:#1b0f07;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.76115179;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;enable-background:new" />
+      </g>
+    </g>
+    <rect
+       style="fill:url(#linearGradient4766);fill-opacity:1;stroke:#000000;stroke-width:6.88968039;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98728811"
+       id="rect5112"
+       width="365.82245"
+       height="82.182625"
+       x="-41.098007"
+       y="296.64966"
+       ry="2.9534888"
+       inkscape:export-xdpi="47.704376"
+       inkscape:export-ydpi="47.704376" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.9340601px;line-height:1.25;font-family:merkin;-inkscape-font-specification:merkin;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3233515"
+       x="-35.932762"
+       y="309.71732"
+       id="text4632"
+       inkscape:export-xdpi="47.704376"
+       inkscape:export-ydpi="47.704376"
+       transform="scale(0.98174507,1.0185944)"><tspan
+         sodipodi:role="line"
+         x="-35.932762"
+         y="309.71732"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.79633141px;font-family:'MV Boli';-inkscape-font-specification:'MV Boli';stroke-width:0.3233515"
+         id="tspan4649">Impossível! Como a criação conseguiu vencer o criador!?</tspan><tspan
+         sodipodi:role="line"
+         x="-35.932762"
+         y="326.96274"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.79633141px;font-family:'MV Boli';-inkscape-font-specification:'MV Boli';stroke-width:0.3233515"
+         id="tspan4548">Você não tem ideia do erro que acabou de cometer!</tspan><tspan
+         sodipodi:role="line"
+         x="-35.932762"
+         y="344.20813"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.79633141px;font-family:'MV Boli';-inkscape-font-specification:'MV Boli';stroke-width:0.3233515"
+         id="tspan4550">Agora quem irá reger a raça humana e impedir que</tspan><tspan
+         sodipodi:role="line"
+         x="-35.932762"
+         y="361.45355"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.79633141px;font-family:'MV Boli';-inkscape-font-specification:'MV Boli';stroke-width:0.3233515"
+         id="tspan4552">se matem? Você? Acredito que não!</tspan></text>
+    <rect
+       ry="6.4668641"
+       y="116.6463"
+       x="209.67026"
+       height="179.94443"
+       width="115.42011"
+       id="rect4742"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:5.72642803;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.98728811"
+       inkscape:export-xdpi="47.704376"
+       inkscape:export-ydpi="47.704376" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.78844833px;line-height:1.25;font-family:merkin;-inkscape-font-specification:merkin;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31971121"
+       x="243.1227"
+       y="372.64224"
+       id="text5131"
+       inkscape:export-xdpi="47.704376"
+       inkscape:export-ydpi="47.704376"><tspan
+         sodipodi:role="line"
+         id="tspan5129"
+         x="243.1227"
+         y="372.64224"
+         style="stroke-width:0.31971121">&lt;<tspan
+   style="fill:#d40000;fill-opacity:1;stroke-width:0.31971121"
+   id="tspan5147">Enter</tspan>&gt; Ok</tspan></text>
+  </g>
+</svg>

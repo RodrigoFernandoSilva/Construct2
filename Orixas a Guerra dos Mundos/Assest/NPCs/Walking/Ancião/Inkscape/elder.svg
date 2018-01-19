@@ -1,0 +1,869 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="732.48456mm"
+   height="753.17792mm"
+   viewBox="0 0 732.48456 753.17792"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="elder.svg"
+   inkscape:export-filename="C:\Users\Ghuide\Desktop\learning\0.0 fatec\0.0 the toekoms of orixás\1.0 artwork and animations\2.0 NPC\0.0 elder\elder.png"
+   inkscape:export-xdpi="25"
+   inkscape:export-ydpi="25"
+   style="enable-background:new">
+  <defs
+     id="defs2">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4655">
+      <feBlend
+         inkscape:collect="always"
+         mode="screen"
+         in2="BackgroundImage"
+         id="feBlend4657" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="2254.4774"
+     inkscape:cy="1065.7659"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:measure-start="0,0"
+     inkscape:measure-end="0,0"
+     inkscape:window-width="1280"
+     inkscape:window-height="657"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     units="mm"
+     inkscape:pagecheckerboard="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(271.81332,268.36891)">
+    <path
+       style="opacity:1;fill:#c87137;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.36106062;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal"
+       d="m -223.90515,-250.75941 c -13.58973,0 -24.52961,52.89389 -24.52961,118.59599 0,0.66976 0.0385,1.28678 0.0409,1.95384 h 126.74464 c 0.002,-0.66706 0.0407,-1.28408 0.0407,-1.95384 0,-65.7021 -10.9411,-118.59599 -24.53081,-118.59599 z"
+       id="rect4761"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Ghuide\Desktop\learning\0.0 fatec\0.0 the toekoms of orixás\1.0 artwork and animations\2.0 NPC\0.0 elder\0.0 parts\head.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <rect
+       style="opacity:1;fill:#784421;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.76115131;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal"
+       id="rect4965-3"
+       width="56.112572"
+       height="117.98029"
+       x="25.94986"
+       y="-335.79059"
+       rx="38.274818"
+       ry="33.513496"
+       transform="rotate(40.215409)"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <rect
+       style="opacity:1;fill:#784421;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.23996973;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal"
+       id="rect4965-0"
+       width="39.424278"
+       height="100.86072"
+       x="408.98892"
+       y="-242.0876"
+       rx="26.891602"
+       ry="28.650511"
+       transform="matrix(0.99922789,-0.03928888,0.02652582,0.99964813,0,0)"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25"
+       inkscape:export-filename="C:\Users\Ghuide\Desktop\learning\0.0 fatec\0.0 the toekoms of orixás\1.0 artwork and animations\2.0 NPC\0.0 elder\0.0 parts\rect4965-0.png" />
+    <rect
+       style="opacity:1;fill:#784421;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.23997021;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal"
+       id="rect4965-0-9"
+       width="39.424278"
+       height="100.86073"
+       x="405.49579"
+       y="-132.50896"
+       transform="matrix(0.99986158,-0.01663775,0.00386845,0.99999252,0,0)"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <rect
+       style="opacity:1;fill:#c87137;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.23997021;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal"
+       id="rect4965-0-6"
+       width="39.424278"
+       height="100.86073"
+       x="325.70532"
+       y="-247.29518"
+       rx="26.891602"
+       ry="28.650511"
+       transform="matrix(0.99922789,-0.03928888,0.02652582,0.99964813,0,0)"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25"
+       inkscape:export-filename="C:\Users\Ghuide\Desktop\learning\0.0 fatec\0.0 the toekoms of orixás\1.0 artwork and animations\2.0 NPC\0.0 elder\0.0 parts\rect4965-0-6.png" />
+    <path
+       style="opacity:1;fill:#ff7f2a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.76115131;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal"
+       d="m 39.377957,-186.6759 c -0.292917,-0.11593 -0.546112,-0.28943 -0.843062,-0.39904 -2.291103,-0.84568 -4.697816,-1.5015 -7.193893,-1.94647 -2.496077,-0.44497 -5.082938,-0.67817 -7.733459,-0.67817 h -73.050164 c -2.65052,0 -5.23738,0.23321 -7.73346,0.67817 -2.49607,0.44497 -4.90279,1.10079 -7.19393,1.94647 -1.61506,0.59617 -3.09241,1.39662 -4.58425,2.17317 v 105.580151 c 0,18.566442 17.06968,33.513524 38.273919,33.513524 H 1.1021976 c 21.2042344,0 38.2757594,-14.947082 38.2757594,-33.513524 z"
+       id="path4958"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Ghuide\Desktop\learning\0.0 fatec\0.0 the toekoms of orixás\1.0 artwork and animations\2.0 NPC\0.0 elder\0.0 parts\body.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <path
+       style="opacity:1;fill:#c87137;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.76115131;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal"
+       d="m 16.82015,-185.86283 h 6.787393 c 2.650521,0 5.237382,0.23321 7.733459,0.67818 2.496077,0.44497 4.90279,1.1008 7.193893,1.94647 0.296918,0.10959 0.550037,0.28314 0.843062,0.39904 v -29.38641 c 0,-8.70496 -3.850884,-16.53853 -10.022783,-22.48473 0.09096,0.54696 0.24797,1.02735 0.311055,1.59988 0.186695,1.69635 0.250864,3.50221 0.189243,5.38982 -0.06169,1.88762 -0.249065,3.85695 -0.563881,5.88627 -0.315033,2.02935 -0.758013,4.117 -1.331998,6.23849 -0.573995,2.12149 -1.278572,4.27672 -2.116951,6.4408 z"
+       id="path4963"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Ghuide\Desktop\learning\0.0 fatec\0.0 the toekoms of orixás\1.0 artwork and animations\2.0 NPC\0.0 elder\0.0 parts\body.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <path
+       style="opacity:1;fill:#c87137;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.76115131;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal"
+       d="m 10.268789,-244.67312 c -2.9493448,-0.63364 -5.9879124,-1.06597 -9.1665914,-1.06597 H -30.680342 c -21.204259,0 -38.273899,14.94707 -38.273899,33.51354 v 31.16054 c 1.49182,-0.77655 2.96917,-1.577 4.58424,-2.17317 2.29111,-0.84567 4.69785,-1.5015 7.19392,-1.94647 2.49609,-0.44497 5.08294,-0.67818 7.73346,-0.67818 h 29.223435 c 0.502389,-1.71342 1.025963,-3.4329 1.699198,-5.17062 l 11.8943116,-30.69969 c 0.838379,-2.16408 1.76946,-4.23154 2.774543,-6.18602 1.005104,-1.95448 2.084135,-3.79593 3.21851998,-5.50784 1.134385,-1.71191 2.32387602,-3.29398 3.55012902,-4.73037 1.226253,-1.4364 2.4886176,-2.72759 3.7693156,-3.8555 1.183398,-1.04223 2.38283,-1.90848 3.5819578,-2.66025 z"
+       id="path4961"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Ghuide\Desktop\learning\0.0 fatec\0.0 the toekoms of orixás\1.0 artwork and animations\2.0 NPC\0.0 elder\0.0 parts\body.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <path
+       style="opacity:1;fill:#ff7f2a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.10270643;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal"
+       d="m 10.268789,-244.67312 c -1.3233028,0.75177 -2.6470288,1.61802 -3.9530398,2.66025 -1.4133166,1.12791 -2.8064806,2.4191 -4.1597596,3.8555 -1.35321302,1.43639 -2.66595702,3.01846 -3.917839,4.73037 -1.251882,1.71191 -2.442717,3.55336 -3.55195,5.50784 -1.109148,1.95448 -2.136661,4.02194 -3.061909,6.18602 l -13.1264306,30.69969 c -0.742922,1.73772 -1.320766,3.4572 -1.875215,5.17062 h 40.876116 l 9.956989,-23.29219 c 0.925238,-2.16408 1.702754,-4.31931 2.336235,-6.4408 0.633448,-2.12149 1.122276,-4.20914 1.469941,-6.23849 0.347664,-2.02932 0.554459,-3.99865 0.622357,-5.88627 0.06819,-1.88761 -0.0033,-3.69347 -0.20918,-5.38982 -0.06928,-0.57253 -0.242527,-1.05292 -0.343317,-1.59988 -5.538374,-4.83503 -12.785857,-8.35142 -21.063431,-9.96284 z"
+       id="rect4877"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Ghuide\Desktop\learning\0.0 fatec\0.0 the toekoms of orixás\1.0 artwork and animations\2.0 NPC\0.0 elder\0.0 parts\body.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <rect
+       style="opacity:1;fill:#c87137;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.76115131;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal"
+       id="rect4965"
+       width="56.112572"
+       height="117.98029"
+       x="126.65971"
+       y="-202.20114"
+       rx="38.274818"
+       ry="33.513496"
+       transform="rotate(-13.450371)"
+       inkscape:export-filename="C:\Users\Ghuide\Desktop\learning\0.0 fatec\0.0 the toekoms of orixás\1.0 artwork and animations\2.0 NPC\0.0 elder\0.0 parts\rect4725-9-2-2.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <path
+       style="opacity:1;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.24827528;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal"
+       d="m -119.69443,-149.58095 h -129.39942 c 0.22455,60.799713 11.26877,109.49258 25.00171,109.49258 h 79.39478 c 13.73295,0 24.77842,-48.692867 25.00293,-109.49258 z"
+       id="path4780"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Ghuide\Desktop\learning\0.0 fatec\0.0 the toekoms of orixás\1.0 artwork and animations\2.0 NPC\0.0 elder\0.0 parts\head.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <rect
+       style="opacity:1;fill:#d38d5f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.05219269;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal"
+       id="rect4725-9"
+       width="53.829628"
+       height="3.5582659"
+       x="-231.36682"
+       y="-212.69162"
+       rx="6.3815665"
+       ry="3.5582659"
+       inkscape:export-filename="C:\Users\Ghuide\Desktop\learning\0.0 fatec\0.0 the toekoms of orixás\1.0 artwork and animations\2.0 NPC\0.0 elder\0.0 parts\head.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <rect
+       style="opacity:1;fill:#d38d5f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.05219269;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal"
+       id="rect4725-9-2"
+       width="53.829628"
+       height="3.5582659"
+       x="-214.91586"
+       y="-219.85199"
+       rx="6.3815665"
+       ry="3.5582659"
+       inkscape:export-filename="C:\Users\Ghuide\Desktop\learning\0.0 fatec\0.0 the toekoms of orixás\1.0 artwork and animations\2.0 NPC\0.0 elder\0.0 parts\head.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <ellipse
+       style="opacity:1;fill:#c87137;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.42395926;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal"
+       id="path4827"
+       cx="-120.43638"
+       cy="-161.74773"
+       rx="20.252518"
+       ry="21.307337"
+       inkscape:export-filename="C:\Users\Ghuide\Desktop\learning\0.0 fatec\0.0 the toekoms of orixás\1.0 artwork and animations\2.0 NPC\0.0 elder\0.0 parts\head.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <ellipse
+       style="opacity:1;fill:#d38d5f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.78617334;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal"
+       id="path4829"
+       cx="-119.07078"
+       cy="-161.54488"
+       rx="7.6824551"
+       ry="6.7874117"
+       inkscape:export-filename="C:\Users\Ghuide\Desktop\learning\0.0 fatec\0.0 the toekoms of orixás\1.0 artwork and animations\2.0 NPC\0.0 elder\0.0 parts\head.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.73261452;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal"
+       id="rect4725-9-2-1"
+       width="81.277618"
+       height="12.53299"
+       x="-224.38321"
+       y="137.74704"
+       rx="9.63556"
+       ry="12.53299"
+       inkscape:export-filename="C:\Users\Ghuide\Desktop\learning\0.0 fatec\0.0 the toekoms of orixás\1.0 artwork and animations\2.0 NPC\0.0 elder\0.0 parts\mouth idle.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <rect
+       style="opacity:1;fill:#c87137;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.76962566;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal"
+       id="rect4965-2"
+       width="47.88364"
+       height="100.67841"
+       x="98.506775"
+       y="-86.961258"
+       rx="32.6618"
+       ry="28.598728"
+       transform="rotate(-5.0976843)"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <ellipse
+       style="opacity:1;fill:#784421;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.76115131;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal"
+       id="path5030"
+       cx="416.48251"
+       cy="-117.23756"
+       rx="17.265406"
+       ry="18.943987"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <ellipse
+       style="opacity:1;fill:#c87137;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.76115131;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal"
+       id="path5030-8"
+       cx="330.44614"
+       cy="-114.9696"
+       rx="17.265406"
+       ry="18.943987"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <path
+       style="opacity:1;fill:#d38d5f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.43869591;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal"
+       d="M 419.74497,-18.997763 A 31.723747,27.638016 0 0 0 388.10499,7.1851456 h 63.305 A 31.723747,27.638016 0 0 0 419.74497,-18.997763 Z"
+       id="path5078"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <rect
+       style="opacity:1;fill:#c87137;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.23997021;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal"
+       id="rect4965-0-9-7"
+       width="39.424278"
+       height="100.86073"
+       x="318.69504"
+       y="-134.39795"
+       transform="matrix(0.99986158,-0.01663775,0.00386845,0.99999252,0,0)"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <path
+       style="opacity:1;fill:#deaa87;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.43869591;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal"
+       d="M 325.92956,-20.806942 A 31.723747,27.638016 0 0 0 294.28958,5.3759704 h 63.30508 a 31.723747,27.638016 0 0 0 -31.6651,-26.1829124 z"
+       id="path5078-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <rect
+       style="opacity:1;fill:#d38d5f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.05219293;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal"
+       id="rect4725-9-2-2"
+       width="53.829628"
+       height="3.5582659"
+       x="-169.30806"
+       y="-180.73233"
+       rx="6.3815665"
+       ry="3.5582659"
+       transform="rotate(75.129419)"
+       inkscape:export-filename="C:\Users\Ghuide\Desktop\learning\0.0 fatec\0.0 the toekoms of orixás\1.0 artwork and animations\2.0 NPC\0.0 elder\0.0 parts\rect4725-9-2-2.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <rect
+       style="opacity:1;fill:#d38d5f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.05219293;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal"
+       id="rect4725-9-2-2-5"
+       width="53.829628"
+       height="3.5582659"
+       x="-64.669495"
+       y="-138.83008"
+       rx="6.381566"
+       ry="3.5582659"
+       transform="rotate(87.046)"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <rect
+       style="opacity:1;fill:#d38d5f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.53701794;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal"
+       id="rect4725-9-2-2-5-8"
+       width="40.316437"
+       height="2.6650116"
+       x="-100.22153"
+       y="-354.22501"
+       rx="4.7795606"
+       ry="2.6650116"
+       transform="rotate(89.461478)"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <rect
+       style="opacity:1;fill:#552200;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.76115131;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal"
+       id="rect5178"
+       width="22.498594"
+       height="337.49545"
+       x="-30.09305"
+       y="-19.019806"
+       ry="11.249297"
+       inkscape:export-filename="C:\Users\Ghuide\Desktop\learning\0.0 fatec\0.0 the toekoms of orixás\1.0 artwork and animations\2.0 NPC\0.0 elder\0.0 parts\rect5180-2-4.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <rect
+       style="opacity:1;fill:#ff5555;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.50907278;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal"
+       id="rect5180"
+       width="22.551786"
+       height="6.2305956"
+       x="-30.09305"
+       y="106.28677"
+       inkscape:export-filename="C:\Users\Ghuide\Desktop\learning\0.0 fatec\0.0 the toekoms of orixás\1.0 artwork and animations\2.0 NPC\0.0 elder\0.0 parts\rect5180-2-4.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <rect
+       style="opacity:1;fill:#ffd5d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.50907278;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal"
+       id="rect5180-2"
+       width="22.551786"
+       height="6.2305956"
+       x="-30.09305"
+       y="112.51733"
+       inkscape:export-filename="C:\Users\Ghuide\Desktop\learning\0.0 fatec\0.0 the toekoms of orixás\1.0 artwork and animations\2.0 NPC\0.0 elder\0.0 parts\rect5180-2-4.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <rect
+       style="opacity:1;fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.50907278;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal"
+       id="rect5180-2-4"
+       width="22.551786"
+       height="6.2305956"
+       x="-30.09305"
+       y="118.74793"
+       inkscape:export-filename="C:\Users\Ghuide\Desktop\learning\0.0 fatec\0.0 the toekoms of orixás\1.0 artwork and animations\2.0 NPC\0.0 elder\0.0 parts\rect5180-2-4.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.10094166;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal"
+       id="rect4725-9-2-1-5"
+       width="17.491541"
+       height="25.002451"
+       x="-165.24521"
+       y="97.472374"
+       rx="2.073643"
+       ry="25.002451"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.41943598;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal"
+       id="rect4725-9-2-1-1"
+       width="42.430458"
+       height="12.53299"
+       x="-226.37524"
+       y="105.95778"
+       rx="5.0301814"
+       ry="12.53299"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <rect
+       style="opacity:1;fill:#c87137;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.43337727;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal"
+       id="rect5269"
+       width="148.53659"
+       height="93.033089"
+       x="-256.78851"
+       y="-6.5058532"
+       rx="10.805225"
+       ry="14.156182" />
+    <circle
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.17875338;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal"
+       id="path4727-2"
+       cx="-203.11984"
+       cy="12.936028"
+       r="14.552069"
+       inkscape:export-filename="C:\Users\Ghuide\Desktop\learning\0.0 fatec\0.0 the toekoms of orixás\1.0 artwork and animations\2.0 NPC\0.0 elder\0.0 parts\eyes idle.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <path
+       style="opacity:1;fill:#0097ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78433704;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal"
+       id="path4727-2-8"
+       sodipodi:type="arc"
+       sodipodi:cx="-208.51486"
+       sodipodi:cy="14.270135"
+       sodipodi:rx="8.1685476"
+       sodipodi:ry="8.1685476"
+       sodipodi:start="6.1202128"
+       sodipodi:end="5.8975854"
+       d="m -200.45455,12.944771 a 8.1685476,8.1685476 0 0 1 -6.28862,9.299465 8.1685476,8.1685476 0 0 1 -9.63489,-5.761569 8.1685476,8.1685476 0 0 1 5.21668,-9.9404747 8.1685476,8.1685476 0 0 1 10.21527,4.6556287 l -7.56875,3.072314 z"
+       inkscape:export-filename="C:\Users\Ghuide\Desktop\learning\0.0 fatec\0.0 the toekoms of orixás\1.0 artwork and animations\2.0 NPC\0.0 elder\0.0 parts\eyes idle.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <circle
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.17875338;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal"
+       id="path4727-2-3"
+       cx="-164.95995"
+       cy="13.140557"
+       r="14.552069"
+       inkscape:export-filename="C:\Users\Ghuide\Desktop\learning\0.0 fatec\0.0 the toekoms of orixás\1.0 artwork and animations\2.0 NPC\0.0 elder\0.0 parts\eyes idle.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.33939075;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal"
+       id="rect4725-9-3"
+       width="69.950455"
+       height="3.5582659"
+       x="-243.00742"
+       y="-192.18535"
+       rx="8.2927094"
+       ry="3.5582659"
+       inkscape:export-filename="C:\Users\Ghuide\Desktop\learning\0.0 fatec\0.0 the toekoms of orixás\1.0 artwork and animations\2.0 NPC\0.0 elder\0.0 parts\head.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <path
+       style="opacity:1;fill:#0097ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78433704;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal"
+       id="path4727-2-8-9"
+       sodipodi:type="arc"
+       sodipodi:cx="-170.35495"
+       sodipodi:cy="14.474664"
+       sodipodi:rx="8.1685476"
+       sodipodi:ry="8.1685476"
+       sodipodi:start="6.1202128"
+       sodipodi:end="5.8975854"
+       d="m -162.29464,13.1493 a 8.1685476,8.1685476 0 0 1 -6.28862,9.299464 8.1685476,8.1685476 0 0 1 -9.63489,-5.761568 8.1685476,8.1685476 0 0 1 5.21668,-9.9404749 8.1685476,8.1685476 0 0 1 10.21528,4.6556289 l -7.56876,3.072314 z"
+       inkscape:export-filename="C:\Users\Ghuide\Desktop\learning\0.0 fatec\0.0 the toekoms of orixás\1.0 artwork and animations\2.0 NPC\0.0 elder\0.0 parts\eyes idle.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.17875338;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal"
+       d="m -181.99065,39.673783 a 14.552069,14.552069 0 0 0 -0.14066,1.905267 14.552069,14.552069 0 0 0 14.55271,14.550816 14.552069,14.552069 0 0 0 14.55084,-14.550816 14.552069,14.552069 0 0 0 -0.14247,-1.905267 z"
+       id="path5317"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <path
+       style="opacity:1;fill:#0097ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78433704;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal"
+       d="m -180.46379,39.668157 a 8.1685475,8.1685475 0 0 0 -0.37283,5.457271 8.1685475,8.1685475 0 0 0 9.63499,5.760759 8.1685475,8.1685475 0 0 0 6.28718,-9.299645 l -8.05943,1.326382 7.56861,-3.072404 a 8.1685475,8.1685475 0 0 0 -0.075,-0.172352 z"
+       id="path5312"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.17875338;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal"
+       d="m -218.48457,39.673783 a 14.552069,14.552069 0 0 0 -0.14066,1.905267 14.552069,14.552069 0 0 0 14.55269,14.550827 14.552069,14.552069 0 0 0 14.55084,-14.550827 14.552069,14.552069 0 0 0 -0.14248,-1.905267 z"
+       id="path5317-0"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <path
+       style="opacity:1;fill:#0097ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78433704;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal"
+       d="m -216.9577,39.668168 a 8.1685475,8.1685475 0 0 0 -0.37282,5.45726 8.1685475,8.1685475 0 0 0 9.63499,5.760759 8.1685475,8.1685475 0 0 0 6.28718,-9.299645 l -8.05944,1.326392 7.56861,-3.072414 a 8.1685475,8.1685475 0 0 0 -0.075,-0.172341 z"
+       id="path5312-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.49861026;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal"
+       id="rect4725-9-3-4"
+       width="28.70532"
+       height="3.5582659"
+       x="-217.6763"
+       y="67.848091"
+       rx="3.4030495"
+       ry="3.5582659"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.49861026;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal"
+       id="rect4725-9-3-4-6"
+       width="28.70532"
+       height="3.5582659"
+       x="-182.18631"
+       y="67.368477"
+       rx="3.4030495"
+       ry="3.5582659"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <rect
+       style="opacity:1;fill:#c87137;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.23997021;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal"
+       id="rect4965-0-6-7"
+       width="39.424278"
+       height="100.86074"
+       x="325.88202"
+       y="334.77139"
+       rx="26.891602"
+       ry="28.650511"
+       transform="matrix(0.99922789,-0.03928888,0.02652582,0.99964813,0,0)"
+       inkscape:export-filename="C:\Users\homework\Desktop\Folthers\FATEC\Smaug\the toekoms of orixás\0.1 Digital\Assest\NPCs\Walking\Ancião\Inkscape\Parts\rect4965-0-6-7.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <rect
+       style="opacity:1;fill:#784421;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.23997021;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal"
+       id="rect4965-0-8"
+       width="39.424278"
+       height="100.86073"
+       x="272.63788"
+       y="318.53091"
+       rx="26.891602"
+       ry="28.650511"
+       transform="matrix(0.99922789,-0.03928888,0.02652582,0.99964813,0,0)"
+       inkscape:export-filename="C:\Users\homework\Desktop\Folthers\FATEC\Smaug\the toekoms of orixás\0.1 Digital\Assest\NPCs\Walking\Ancião\Inkscape\Parts\leg up.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <g
+       id="g4608"
+       inkscape:export-filename="C:\Users\homework\Desktop\Folthers\FATEC\Smaug\the toekoms of orixás\0.1 Digital\Assest\NPCs\Walking\Ancião\Inkscape\Parts\path4958-2.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25">
+      <path
+         inkscape:export-ydpi="25"
+         inkscape:export-xdpi="25"
+         inkscape:export-filename="C:\Users\homework\Desktop\Folthers\FATEC\Smaug\the toekoms of orixás\0.1 Digital\Assest\NPCs\Walking\Ancião\Inkscape\Parts\path4958-2.png"
+         inkscape:connector-curvature="0"
+         id="path4958-2"
+         d="m 382.38189,222.73094 c -0.29293,-0.11601 -0.54612,-0.28931 -0.84307,-0.39904 -2.29113,-0.84571 -4.69781,-1.50152 -7.1939,-1.94649 -2.49608,-0.44496 -5.08293,-0.67818 -7.73345,-0.67818 h -73.05016 c -2.65052,0 -5.23737,0.23311 -7.73345,0.67818 -2.49608,0.44497 -4.9028,1.10078 -7.19393,1.94649 -1.61507,0.59614 -3.09241,1.3966 -4.58425,2.17314 v 105.58018 c 0,18.56641 17.06967,33.51349 38.27392,33.51349 h 31.78252 c 21.20424,0 38.27577,-14.94708 38.27577,-33.51349 z"
+         style="opacity:1;fill:#008000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.76115131;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4963-4"
+         d="m 359.82407,223.54401 h 6.7874 c 2.65052,0 5.23737,0.23311 7.73345,0.67815 2.49609,0.44496 4.90277,1.10081 7.1939,1.94648 0.29692,0.10949 0.55003,0.28314 0.84307,0.39903 v -29.38638 c 0,-8.705 -3.85089,-16.53854 -10.02279,-22.48477 0.091,0.54699 0.24797,1.02737 0.31106,1.59991 0.18669,1.69634 0.25086,3.5022 0.18923,5.38982 -0.0616,1.88761 -0.24905,3.85694 -0.56387,5.88626 -0.31504,2.02936 -0.75801,4.11698 -1.33201,6.23849 -0.57398,2.12149 -1.27856,4.27672 -2.11694,6.44079 z"
+         style="opacity:1;fill:#c87137;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.76115131;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4961-4"
+         d="m 353.27272,164.73371 c -2.94935,-0.63363 -5.98791,-1.06599 -9.1666,-1.06599 H 312.3236 c -21.20428,0 -38.27392,14.94708 -38.27392,33.51357 v 31.16053 c 1.49184,-0.77658 2.96918,-1.577 4.58425,-2.17318 2.2911,-0.84567 4.69785,-1.50152 7.19393,-1.94648 2.49608,-0.44498 5.08293,-0.67815 7.73345,-0.67815 h 29.22343 c 0.5024,-1.71345 1.02597,-3.43292 1.69921,-5.17063 l 11.8943,-30.69969 c 0.83838,-2.16407 1.76946,-4.23154 2.77453,-6.18604 1.00512,-1.95446 2.08415,-3.79592 3.21854,-5.50781 1.13438,-1.71194 2.32387,-3.29401 3.55012,-4.73038 1.22626,-1.43641 2.48861,-2.72759 3.76932,-3.85553 1.1834,-1.04219 2.38282,-1.90845 3.58196,-2.66022 z"
+         style="opacity:1;fill:#c87137;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.76115131;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal" />
+      <path
+         inkscape:connector-curvature="0"
+         id="rect4877-8"
+         d="m 353.27272,164.73371 c -1.3233,0.75177 -2.64704,1.61803 -3.95304,2.66022 -1.41332,1.12794 -2.80648,2.41912 -4.15976,3.85553 -1.35321,1.43637 -2.66596,3.01844 -3.91785,4.73038 -1.25188,1.71189 -2.44271,3.55335 -3.55194,5.50781 -1.10916,1.9545 -2.13667,4.02197 -3.06191,6.18604 l -13.12642,30.69969 c -0.74293,1.73771 -1.32077,3.45718 -1.87521,5.17063 h 40.8761 l 9.95698,-23.29222 c 0.92525,-2.16407 1.70276,-4.3193 2.33625,-6.44079 0.63344,-2.12151 1.12227,-4.20913 1.46994,-6.23849 0.34766,-2.02932 0.55444,-3.99865 0.62235,-5.88626 0.0682,-1.88762 -0.003,-3.69348 -0.20918,-5.38982 -0.0693,-0.57254 -0.24253,-1.05292 -0.34331,-1.59991 -5.53838,-4.835 -12.78587,-8.35138 -21.06343,-9.96281 z"
+         style="opacity:1;fill:#008000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.10270643;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal" />
+    </g>
+    <g
+       id="g4594"
+       inkscape:export-filename="C:\Users\homework\Desktop\Folthers\FATEC\Smaug\the toekoms of orixás\0.1 Digital\Assest\NPCs\Walking\Ancião\Inkscape\Parts\leg down.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25">
+      <rect
+         transform="matrix(0.99986158,-0.01663775,0.00386845,0.99999252,0,0)"
+         y="367.82239"
+         x="281.92819"
+         height="100.86073"
+         width="39.424278"
+         id="rect4965-0-9-5"
+         style="opacity:1;fill:#784421;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.23997021;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal" />
+      <ellipse
+         ry="18.943987"
+         rx="17.265406"
+         cy="385.14575"
+         cx="294.86768"
+         id="path5030-5"
+         style="opacity:1;fill:#784421;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.76115131;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal" />
+    </g>
+    <rect
+       style="opacity:1;fill:#784421;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.86500001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal;filter:url(#filter4655)"
+       id="rect4965-3-3"
+       width="15.478125"
+       height="32.543751"
+       x="210.38383"
+       y="19.664577"
+       rx="10.557749"
+       ry="9.2443829"
+       transform="matrix(2.7683468,2.3407109,-2.3407109,2.7683468,-296.58497,-366.28425)"
+       inkscape:export-filename="C:\Users\homework\Desktop\Folthers\FATEC\Smaug\the toekoms of orixás\0.1 Digital\Assest\NPCs\Walking\Ancião\Inkscape\Parts\rect4965-3-3.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <rect
+       style="opacity:1;fill:#784421;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.76962566;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal"
+       id="rect4965-2-5"
+       width="47.88364"
+       height="100.67841"
+       x="237.23547"
+       y="-231.6976"
+       rx="32.6618"
+       ry="28.598728"
+       transform="rotate(93.243422)"
+       inkscape:export-filename="C:\Users\homework\Desktop\Folthers\FATEC\Smaug\the toekoms of orixás\0.1 Digital\Assest\NPCs\Walking\Ancião\Inkscape\Parts\rect4965-2-5.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <g
+       id="g4602"
+       inkscape:export-filename="C:\Users\homework\Desktop\Folthers\FATEC\Smaug\the toekoms of orixás\0.1 Digital\Assest\NPCs\Walking\Ancião\Inkscape\Parts\arm up.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25">
+      <rect
+         transform="rotate(-13.450371)"
+         ry="33.513496"
+         rx="38.274818"
+         y="258.25964"
+         x="287.56238"
+         height="117.98029"
+         width="56.112572"
+         id="rect4965-39"
+         style="opacity:1;fill:#c87137;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.76115131;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal" />
+      <rect
+         transform="rotate(75.129419)"
+         ry="3.5582659"
+         rx="6.381566"
+         y="-330.17264"
+         x="294.99954"
+         height="3.5582659"
+         width="53.829628"
+         id="rect4725-9-2-2-0"
+         style="opacity:1;fill:#d38d5f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.05219293;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal" />
+    </g>
+    <g
+       id="g4598"
+       inkscape:export-filename="C:\Users\homework\Desktop\Folthers\FATEC\Smaug\the toekoms of orixás\0.1 Digital\Assest\NPCs\Walking\Ancião\Inkscape\Parts\arm down.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25">
+      <rect
+         transform="rotate(-5.0976843)"
+         ry="28.598728"
+         rx="32.6618"
+         y="294.27728"
+         x="341.52927"
+         height="100.67841"
+         width="47.88364"
+         id="rect4965-2-3"
+         style="opacity:1;fill:#c87137;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.76962566;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal" />
+      <rect
+         transform="rotate(87.046)"
+         ry="3.5582659"
+         rx="6.3815656"
+         y="-395.94305"
+         x="307.21188"
+         height="3.5582659"
+         width="53.829628"
+         id="rect4725-9-2-2-5-4"
+         style="opacity:1;fill:#d38d5f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.05219293;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal" />
+    </g>
+    <path
+       style="opacity:1;fill:#d38d5f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.43869591;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal"
+       d="m 291.65615,437.75639 a 31.723747,27.638016 0 0 0 -31.63998,26.18292 h 63.30501 a 31.723747,27.638016 0 0 0 -31.66503,-26.18292 z"
+       id="path5078-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\homework\Desktop\Folthers\FATEC\Smaug\the toekoms of orixás\0.1 Digital\Assest\NPCs\Walking\Ancião\Inkscape\Parts\path5078-5.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <g
+       id="g4590"
+       inkscape:export-filename="C:\Users\homework\Desktop\Folthers\FATEC\Smaug\the toekoms of orixás\0.1 Digital\Assest\NPCs\Walking\Ancião\Inkscape\Parts\g4590.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25">
+      <ellipse
+         ry="18.943987"
+         rx="17.265406"
+         cy="399.2883"
+         cx="348.50156"
+         id="path5030-8-6"
+         style="opacity:1;fill:#c87137;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.76115131;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal" />
+      <rect
+         transform="matrix(0.99986158,-0.01663775,0.00386845,0.99999252,0,0)"
+         y="380.13107"
+         x="334.76218"
+         height="100.86073"
+         width="39.424278"
+         id="rect4965-0-9-7-6"
+         style="opacity:1;fill:#c87137;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.23997021;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal" />
+      <rect
+         transform="rotate(89.461478)"
+         ry="2.6650116"
+         rx="4.7795601"
+         y="-367.44617"
+         x="414.18314"
+         height="2.6650116"
+         width="40.316437"
+         id="rect4725-9-2-2-5-8-0"
+         style="opacity:1;fill:#d38d5f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.53701794;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal" />
+    </g>
+    <path
+       style="opacity:1;fill:#deaa87;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.43869591;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal"
+       d="m 344.53042,449.18582 a 31.723747,27.638016 0 0 0 -31.63997,26.18292 h 63.30508 a 31.723747,27.638016 0 0 0 -31.66511,-26.18292 z"
+       id="path5078-3-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\homework\Desktop\Folthers\FATEC\Smaug\the toekoms of orixás\0.1 Digital\Assest\NPCs\Walking\Ancião\Inkscape\Parts\path5078-3-7.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <rect
+       style="opacity:1;fill:#784421;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.76962566;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal"
+       id="rect4965-2-5-8"
+       width="47.88364"
+       height="100.67841"
+       x="-75.38401"
+       y="-268.17191"
+       rx="32.6618"
+       ry="28.598728"
+       transform="rotate(93.243422)"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <g
+       id="g4585"
+       inkscape:export-filename="C:\Users\homework\Desktop\Folthers\FATEC\Smaug\the toekoms of orixás\0.1 Digital\Assest\NPCs\Walking\Ancião\Inkscape\Parts\g4585.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25">
+      <path
+         sodipodi:nodetypes="ssccsssccccss"
+         inkscape:connector-curvature="0"
+         id="rect5178-1"
+         d="m 127.38444,120.44917 c 6.23211,0 11.24929,5.01719 11.24929,11.2493 v 227.74722 c 20.11477,48.05497 3.86568,23.38222 0,23.47628 v 63.77336 c 0,6.23211 -5.01718,11.2493 -11.24929,11.2493 -6.23211,0 -11.2493,-5.01719 -11.2493,-11.2493 V 309.67599 c -32.598348,-49.59447 -2.73177,-26.03265 0,-15.96387 V 165.06213 c -5.98155,-7.60621 -38.08903,-28.61033 0,-13.61624 v -19.74742 c 0,-6.23211 5.01719,-11.2493 11.2493,-11.2493 z"
+         style="opacity:1;fill:#552200;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.76115131;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal" />
+      <rect
+         y="245.75594"
+         x="116.13514"
+         height="6.2305956"
+         width="22.551786"
+         id="rect5180-20"
+         style="opacity:1;fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.50907278;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal" />
+      <rect
+         y="251.98651"
+         x="116.13514"
+         height="6.2305956"
+         width="22.551786"
+         id="rect5180-2-8"
+         style="opacity:1;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.50907278;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal" />
+      <rect
+         y="258.21713"
+         x="116.13514"
+         height="6.2305956"
+         width="22.551786"
+         id="rect5180-2-4-5"
+         style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.50907278;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal" />
+    </g>
+    <g
+       id="g4579"
+       inkscape:export-filename="C:\Users\homework\Desktop\Folthers\FATEC\Smaug\the toekoms of orixás\0.1 Digital\Assest\NPCs\Walking\Ancião\Inkscape\Parts\g4579.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25">
+      <path
+         inkscape:connector-curvature="0"
+         id="rect4761-8"
+         d="m 249.09788,28.836866 c -13.58974,0 -24.52961,52.893834 -24.52961,118.595864 0,0.66978 0.0384,1.28679 0.041,1.95385 h 126.74464 c 0.002,-0.66706 0.0407,-1.28407 0.0407,-1.95385 5e-5,-65.70203 -10.94106,-118.595864 -24.53075,-118.595864 z"
+         style="opacity:1;fill:#c87137;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.36106062;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal" />
+      <path
+         sodipodi:nodetypes="ssssssscsss"
+         inkscape:connector-curvature="0"
+         id="path4780-7"
+         d="m 353.3086,130.01521 c 0.0882,-23.88734 2.2707,-43.1752 -3.59705,-63.572826 -0.9517,-3.308312 -1.84667,-7.629301 -4.98464,-9.044846 -8.23766,-3.71602 -20.0267,-0.441507 -26.46018,5.904998 -6.04004,5.95838 -4.98579,16.327284 -5.88147,24.764231 -1.29023,12.153493 1.25078,21.617083 0.79366,36.656773 -0.12568,4.13494 -7.18893,4.38789 -11.22584,5.29167 -25.38622,5.68342 -78.04392,0 -78.04392,0 0.22441,60.79971 20.79379,67.15926 34.52672,67.15926 h 56.6406 c 13.73297,0 38.00761,-6.35955 38.23212,-67.15926 z"
+         style="opacity:1;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.24827528;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal" />
+      <rect
+         ry="3.5582659"
+         rx="6.3815665"
+         y="66.904648"
+         x="241.63618"
+         height="3.5582659"
+         width="53.829628"
+         id="rect4725-9-34"
+         style="opacity:1;fill:#d38d5f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.05219293;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal" />
+      <rect
+         ry="3.5582659"
+         rx="6.3815665"
+         y="59.74427"
+         x="258.0871"
+         height="3.5582659"
+         width="53.829628"
+         id="rect4725-9-2-9"
+         style="opacity:1;fill:#d38d5f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.05219293;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal" />
+      <ellipse
+         ry="21.307337"
+         rx="20.25252"
+         cy="117.84848"
+         cx="352.56665"
+         id="path4827-0"
+         style="opacity:1;fill:#c87137;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.42395973;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal" />
+      <ellipse
+         ry="6.7874117"
+         rx="7.6824551"
+         cy="118.05146"
+         cx="353.93225"
+         id="path4829-2"
+         style="opacity:1;fill:#d38d5f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.78617334;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal" />
+      <rect
+         ry="12.53299"
+         rx="9.63556"
+         y="155.64693"
+         x="228.4093"
+         height="12.53299"
+         width="81.277618"
+         id="rect4725-9-2-1-9"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.73261452;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal" />
+      <circle
+         r="14.552069"
+         cy="105.19933"
+         cx="245.12035"
+         id="path4727-2-5"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.17875338;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal" />
+      <path
+         d="m 247.78573,105.20818 a 8.1685476,8.1685476 0 0 1 -6.28862,9.29947 8.1685476,8.1685476 0 0 1 -9.63489,-5.76157 8.1685476,8.1685476 0 0 1 5.21668,-9.940476 8.1685476,8.1685476 0 0 1 10.21527,4.655626 l -7.56875,3.07232 z"
+         sodipodi:end="5.8975854"
+         sodipodi:start="6.1202128"
+         sodipodi:ry="8.1685476"
+         sodipodi:rx="8.1685476"
+         sodipodi:cy="106.53355"
+         sodipodi:cx="239.72542"
+         sodipodi:type="arc"
+         id="path4727-2-8-0"
+         style="opacity:1;fill:#af4db2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78433704;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal" />
+      <circle
+         r="14.552069"
+         cy="105.40395"
+         cx="283.28024"
+         id="path4727-2-3-6"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.17875338;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal" />
+      <rect
+         ry="3.5582659"
+         rx="8.2927094"
+         y="87.410927"
+         x="229.99557"
+         height="3.5582659"
+         width="69.950455"
+         id="rect4725-9-3-5"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.33939075;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal" />
+      <path
+         d="m 285.94556,105.41275 a 8.1685476,8.1685476 0 0 1 -6.28861,9.29946 8.1685476,8.1685476 0 0 1 -9.63489,-5.76156 8.1685476,8.1685476 0 0 1 5.21667,-9.940479 8.1685476,8.1685476 0 0 1 10.21528,4.655629 l -7.56876,3.07231 z"
+         sodipodi:end="5.8975854"
+         sodipodi:start="6.1202128"
+         sodipodi:ry="8.1685476"
+         sodipodi:rx="8.1685476"
+         sodipodi:cy="106.73811"
+         sodipodi:cx="277.88525"
+         sodipodi:type="arc"
+         id="path4727-2-8-9-2"
+         style="opacity:1;fill:#af4db2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78433704;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.89803922;paint-order:normal" />
+      <path
+         sodipodi:nodetypes="ssssssss"
+         inkscape:connector-curvature="0"
+         id="path4563"
+         d="m 237.93066,36.623607 c 1.96414,5.626279 13.19163,4.267453 20.72724,4.723657 7.53559,0.456202 16.76657,-0.827167 23.90996,-2.474793 7.14338,-1.647628 18.28527,-1.329104 18.73693,-6.844506 0.45166,-5.515404 -5.59057,-4.519161 -11.54475,-6.513128 -5.95418,-1.993967 -17.00122,-3.332724 -24.20533,-3.229582 -7.20411,0.103142 -13.77165,0.221035 -18.56519,3.020299 -4.79356,2.799262 -11.023,5.691772 -9.05886,11.318053 z"
+         style="fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>
